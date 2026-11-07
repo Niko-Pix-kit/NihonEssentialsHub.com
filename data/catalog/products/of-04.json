@@ -1,0 +1,85 @@
+{
+  "id": "bamboom-of-04",
+  "order": 10,
+  "brand": "BAMBOOM",
+  "image": "assets/catalog/products/of-04.webp",
+  "url": "https://www.amazon.co.jp/dp/B0FDFVDYZQ",
+  "locales": {
+    "en": {
+      "title": "OF-04 · Compact desk organizer",
+      "description": "A bamboo organizer with a drawer and tray to keep stationery and small everyday items within reach."
+    },
+    "fr": {
+      "title": "OF-04 · Organiseur de bureau compact",
+      "description": "Un organiseur en bambou avec tiroir et plateau pour garder la papeterie et les petits objets du quotidien à portée de main."
+    },
+    "ja": {
+      "title": "OF-04 · コンパクトなデスクオーガナイザー",
+      "description": "引き出しとトレーを備えた竹製オーガナイザー。文房具や日常の小物を手の届く場所にまとめられます。"
+    },
+    "de": {
+      "title": "OF-04 · Kompakter Schreibtisch-Organizer",
+      "description": "Ein Organizer aus Bambus mit Schublade und Ablage, der Schreibwaren und kleine Alltagsgegenstände griffbereit hält."
+    },
+    "es": {
+      "title": "OF-04 · Organizador de escritorio compacto",
+      "description": "Un organizador de bambú con cajón y bandeja para tener a mano los artículos de papelería y los pequeños objetos cotidianos."
+    },
+    "it": {
+      "title": "OF-04 · Organizer da scrivania compatto",
+      "description": "Un organizer in bambù con cassetto e vassoio per tenere a portata di mano cancelleria e piccoli oggetti quotidiani."
+    },
+    "pt": {
+      "title": "OF-04 · Organizador de secretária compacto",
+      "description": "Um organizador de bambu com gaveta e tabuleiro para manter a papelaria e os pequenos objetos do dia a dia à mão."
+    },
+    "pt-br": {
+      "title": "OF-04 · Organizador de mesa compacto",
+      "description": "Um organizador de bambu com gaveta e bandeja para manter artigos de papelaria e pequenos objetos do dia a dia ao alcance da mão."
+    },
+    "nl": {
+      "title": "OF-04 · Compacte bureau-organizer",
+      "description": "Een bamboe organizer met een lade en een bakje om schrijfwaren en kleine dagelijkse spullen binnen handbereik te houden."
+    },
+    "pl": {
+      "title": "OF-04 · Kompaktowy organizer na biurko",
+      "description": "Bambusowy organizer z szufladą i tacką, który pozwala mieć pod ręką artykuły papiernicze i drobne przedmioty codziennego użytku."
+    },
+    "ru": {
+      "title": "OF-04 · Компактный настольный органайзер",
+      "description": "Бамбуковый органайзер с ящиком и лотком, чтобы канцелярские принадлежности и повседневные мелочи всегда были под рукой."
+    },
+    "uk": {
+      "title": "OF-04 · Компактний настільний органайзер",
+      "description": "Бамбуковий органайзер із шухлядою та лотком, щоб канцелярське приладдя й повсякденні дрібниці завжди були під рукою."
+    },
+    "zh-cn": {
+      "title": "OF-04 · 紧凑型桌面收纳盒",
+      "description": "配有抽屉和托盘的竹制收纳盒，让文具和日常小物随手可取。"
+    },
+    "zh-tw": {
+      "title": "OF-04 · 精巧型桌面收納盒",
+      "description": "配有抽屜和托盤的竹製收納盒，讓文具和日常小物隨手可取。"
+    },
+    "ko": {
+      "title": "OF-04 · 컴팩트 데스크 정리함",
+      "description": "서랍과 트레이가 있는 대나무 정리함으로 문구류와 일상 소품을 손이 닿는 곳에 보관하세요."
+    },
+    "ar": {
+      "title": "OF-04 · منظّم مكتب مدمج",
+      "description": "منظّم من الخيزران مع درج وصينية لإبقاء القرطاسية والأغراض اليومية الصغيرة في متناول اليد."
+    },
+    "hi": {
+      "title": "OF-04 · कॉम्पैक्ट डेस्क ऑर्गनाइज़र",
+      "description": "दराज़ और ट्रे वाला बाँस का ऑर्गनाइज़र, जिससे स्टेशनरी और रोज़मर्रा की छोटी वस्तुएँ हाथ के पास रहती हैं।"
+    },
+    "id": {
+      "title": "OF-04 · Organizer meja ringkas",
+      "description": "Organizer bambu dengan laci dan baki untuk menyimpan alat tulis dan barang kecil sehari-hari agar mudah dijangkau."
+    },
+    "tr": {
+      "title": "OF-04 · Kompakt masa düzenleyici",
+      "description": "Kırtasiye malzemelerini ve günlük küçük eşyaları el altında tutmak için çekmeceli ve tepsili bambu düzenleyici."
+    }
+  }
+}

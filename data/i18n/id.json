@@ -1,0 +1,246 @@
+{
+  "title": "Desain. Pengembangan. Distribusi.",
+  "description": "Nihon Essentials Hub adalah perusahaan berbasis di Jepang yang bergerak dalam desain produk dan perdagangan, pengembangan perangkat lunak, serta penerbitan independen.",
+  "skip": "Langsung ke konten",
+  "menu": "Menu",
+  "nav": [
+    "Misi kami",
+    "Merek kami",
+    "Tentang kami",
+    "Kontak"
+  ],
+  "languageLabel": "Bahasa",
+  "autoLabel": "Otomatis",
+  "languageMode": "Otomatis",
+  "heroEyebrow": "Nihon Essentials Hub · Jepang",
+  "principles": [
+    "Desain.",
+    "Pengembangan.",
+    "Distribusi."
+  ],
+  "heroText": "Kami menghubungkan desain produk, pengembangan digital, dan distribusi untuk menghadirkan ide berguna kepada orang yang dituju.",
+  "heroAction": "Jelajahi misi kami",
+  "heroNote": "Pemikiran independen. Hasil yang praktis.",
+  "missionLabel": "Misi kami",
+  "missionTitle": "Tiga kegiatan. Satu tujuan yang jelas.",
+  "missionText": "Menciptakan hal berguna dan membantunya menjangkau audiens.",
+  "caps": [
+    [
+      "Produk & perdagangan",
+      "Kami merancang produk fisik, mengoordinasikan manufaktur, serta mengelola presentasi dan penjualannya melalui perdagangan daring."
+    ],
+    [
+      "Perangkat lunak & alat digital",
+      "Kami mengembangkan aplikasi praktis dan mendukung perangkat lunak independen melalui distribusi serta promosi."
+    ],
+    [
+      "Buku & karya independen",
+      "Kami mendukung penerbitan, distribusi, dan pemasaran buku serta karya kreatif independen."
+    ]
+  ],
+  "authorLink": "Nicolas Loffredo — Tentang penulis",
+  "brandsLabel": "Merek kami",
+  "brandsTitle": "Dua merek. Bidang yang berbeda.",
+  "brandsText": "Setiap merek menjadi wujud terfokus dari pekerjaan kami.",
+  "bamText": "Produk bambu untuk rumah dan ruang kerja. Desain yang cermat, penataan yang praktis, dan kehangatan bahan alami.",
+  "bamLink": "Kunjungi toko Amazon",
+  "pixText": "Perangkat lunak dan alat digital praktis untuk berkarya, belajar, dan bereksplorasi. Build. Learn. Play.",
+  "pixLink": "Kunjungi pix-kit.com",
+  "aboutLabel": "Tentang kami",
+  "aboutTitle": "Perusahaan yang berpusat pada ide berguna.",
+  "aboutLead": "Nihon Essentials Hub G.K. adalah perusahaan independen berbasis di Fukuoka, Jepang, yang aktif sejak 2023.",
+  "aboutBody": "Kami bergerak dalam produk fisik, perangkat lunak, dan penerbitan independen. Peran kami menghubungkan desain dan pengembangan dengan pekerjaan praktis untuk membawa produk atau karya kreatif ke pasar.",
+  "approachTitle": "Cara kami bekerja",
+  "approach": [
+    [
+      "Mulai dari kebutuhan nyata",
+      "Kami berfokus pada tujuan yang jelas dan penggunaan yang praktis."
+    ],
+    [
+      "Menghubungkan kreasi dengan distribusi",
+      "Sejak awal, kami memikirkan cara produk atau karya akan dipresentasikan, disalurkan, dan ditemukan."
+    ],
+    [
+      "Menghormati kepemilikan independen",
+      "Penulis dan pengembang tetap memegang hak atas karyanya. Peran kami dalam distribusi dan pemasaran ditetapkan melalui kesepakatan dengan setiap kreator."
+    ]
+  ],
+  "facts": [
+    [
+      "Perusahaan",
+      "Nihon Essentials Hub G.K."
+    ],
+    [
+      "Berbasis di",
+      "Fukuoka, Jepang"
+    ],
+    [
+      "Aktif sejak",
+      "2023"
+    ]
+  ],
+  "contactLabel": "Kontak",
+  "contactTitle": "Hubungi kami.",
+  "contactText": "Untuk pertanyaan bisnis, peluang distribusi, atau proyek independen, hubungi kami melalui email.",
+  "emailAction": "Kirim email",
+  "privacy": "Privasi & informasi situs",
+  "privacyTitle": "Privasi & informasi situs",
+  "privacyContent": [
+    [
+      "Pengelola situs",
+      "Situs ini dikelola oleh Nihon Essentials Hub G.K. (Nihon Essentials Hub 合同会社), Fukuoka, Jepang."
+    ],
+    [
+      "Menjelajahi situs ini",
+      "Ini adalah situs informasi. Kami tidak menggunakan cookie iklan, formulir kontak, atau media pihak ketiga yang disematkan. Penyedia hosting dapat memproses data teknis koneksi untuk menyediakan dan mengamankan situs."
+    ],
+    [
+      "Google Analytics",
+      "Dengan persetujuan Anda, Google Analytics mengukur penggunaan situs, seperti tampilan halaman. Google menerima data teknis koneksi dan browser. Cookie _ga dan _ga_LHR5R3H8ZP membedakan browser dan menyimpan status sesi hingga 180 hari. Nihon Essentials Hub mengatur tampilan halaman tanpa kueri atau fragmen URL, membatasi URL perujuk ke asalnya, dan menonaktifkan fitur iklan di tag situs."
+    ],
+    [
+      "Kontak melalui email",
+      "Tautan email membuka aplikasi email Anda sendiri. Jika Anda menulis kepada kami, informasi yang diberikan digunakan untuk membalas dan menangani pertanyaan tersebut."
+    ],
+    [
+      "Situs eksternal",
+      "Tautan ke Amazon dan pix-kit mengarah ke situs terpisah. Pengelolanya menerapkan kebijakan privasi dan ketentuan masing-masing."
+    ],
+    [
+      "Merek dan karya kreatif",
+      "BAMBOOM dan pix-kit adalah merek Nihon Essentials Hub. Hak atas karya independen tetap berada pada penulis dan pengembang masing-masing, kecuali disepakati lain. Nama merek dan produk milik perusahaan lain tetap menjadi milik pemegang haknya."
+    ],
+    [
+      "Pilihan bahasa dan cookie",
+      "Pemilihan bahasa otomatis menggunakan bahasa browser Anda tanpa menghubungi layanan geolokasi. URL yang dilokalkan dan preferensi sesi tab mempertahankan pilihan eksplisit Anda selama navigasi. Cookie bahasa persisten hanya dipasang jika Anda menerima preferensi. Cookie esensial mengingat persetujuan atau penolakan selama 6 bulan. Anda dapat mengubah pilihan melalui Kelola preferensi di footer."
+    ]
+  ],
+  "back": "Kembali ke beranda",
+  "notFound": "Halaman ini tidak ditemukan.",
+  "seoTitle": "Desain produk, perangkat lunak & penerbitan",
+  "navHome": "Beranda",
+  "navAuthors": "Penulis kami",
+  "navTeam": "Tim kami",
+  "authors": {
+    "label": "Penulis kami",
+    "title": "Suara independen.",
+    "bio": "Sebagai penulis independen yang tinggal di Jepang, Nicolas Loffredo membawa rasa ingin tahu seorang peneliti ke dalam tulisannya. Temukan buku dan publikasinya di halaman penulis Amazon.",
+    "link": "Temukan penulis di Amazon",
+    "alt": "Potret penulis Nicolas Loffredo"
+  },
+  "team": {
+    "title": "Tim kami",
+    "subtitle": "Perusahaan kecil. Kepribadian yang agak nyentrik. Proyek yang sangat nyata.",
+    "tagline": "Enam versi sang pendiri. Dan seekor dachshund agar semuanya tetap membumi.",
+    "newcomer": "Anggota baru",
+    "members": [
+      {
+        "role": "CEO dan Pendiri",
+        "bio": "Nicolas meraih doktor kimia dan belajar di Prancis sebelum pindah ke Jepang. Ia bekerja sebagai peneliti, lalu direktur di bidang kecerdasan buatan dan analisis data, termasuk visi komputer dan pencitraan medis. Ia mendirikan Nihon Essentials Hub untuk merancang, mengembangkan, dan meluncurkan proyeknya sendiri. Di luar pekerjaan, ia menggemari gurita dan takoyaki. Alasannya belum diketahui. Penelitian terus berlanjut, biasanya saat makan siang.",
+        "alt": "Nicolas Loffredo mengenakan setelan bisnis gelap, kemeja putih, dan dasi",
+        "name": "Nicolas Loffredo",
+        "motto": "Saya benci rapat. Jangan jadwalkan rapat untuk membahasnya."
+      },
+      {
+        "role": "Pengembang Full Stack",
+        "bio": "Niklas lebih suka menghabiskan tiga malam untuk mengotomatiskan tugas tiga puluh detik daripada mengerjakannya dua kali. Dari frontend hingga server, semuanya akhirnya tersambung ke salah satu skrip Python-nya. Paginya seperti adegan pembuka Back to the Future: kopi dibuat otomatis, dilayani program dan robot rakitannya sendiri. Satu-satunya hal yang masih manual adalah mengingatkannya bahwa kopi itu juga perlu diminum.",
+        "alt": "Niklas Stack, pengembang web dengan wig hitam acak-acakan dan kacamata besar",
+        "name": "Niklas Stack",
+        "motto": "Otomatiskan apa pun yang kamu lakukan lebih dari sekali."
+      },
+      {
+        "role": "Manajer Aplikasi Android",
+        "bio": "Nico membuat aplikasi Android dengan Kotlin dan Java, lalu mengujinya di ponsel sungguhan. Di sela dua versi, ia kembali menyelamatkan dunia dalam Secret of Mana. Gim retro mengajarinya bahwa ide bagus bisa bertahan melewati banyak generasi konsol. Misi sampingannya: buah zaitun. Tak ada statistik yang bisa menjelaskan jumlah yang ia habiskan.",
+        "alt": "Nico Droid, pengelola aplikasi Android dengan pakaian hijau berlapis bantalan yang ceria dan terinspirasi Android",
+        "name": "Nico Droid",
+        "motto": "Simpan. Uji. Ambil satu zaitun lagi."
+      },
+      {
+        "role": "Manajer Aplikasi Apple",
+        "bio": "Nicholas menyiapkan aplikasi iOS pertama kami. Ia merapikan antarmuka, menyelaraskan detail, dan tetap yakin bahwa barang sangat mahal membuat pemiliknya sedikit lebih unggul. Percakapannya dengan Nico Droid pun selalu ramai. Di dunia Matrix, ia pasti meminta pil merah dengan lapisan titanium, plus biaya tambahan untuk wadahnya. Kami mengawasi anggarannya; ia mengawasi hasil akhirnya.",
+        "alt": "Nicholas Swift, pengelola aplikasi Apple dengan kacamata modis dan pakaian elegan yang terinspirasi Apple",
+        "name": "Nicholas Swift",
+        "motto": "Mahal berarti bagus."
+      },
+      {
+        "role": "Manajer Pemasaran dan E-commerce",
+        "bio": "Nicole mengurus toko, kampanye, dan ide yang biasanya datang tiga sekaligus. Ia bisa mengubah halaman produk menjadi peluncuran roket, lalu kembali membahas biaya per klik dengan sangat serius. Ia menyukai dachshund, jubah mandi, dan minyak. Dachshund adalah segalanya. Untuk dua hal lainnya, belum ada penjelasan resmi. Megafonnya terutama dipakai untuk mengumumkan bahwa ia punya “ide kecil saja”.",
+        "alt": "Nicole Pitch, karakter berwajah Nicolas Loffredo dengan wig pirang panjang, kacamata oranye, kemeja bunga-bunga, dan megafon",
+        "name": "Nicole Pitch",
+        "motto": "Dachshund adalah segalanya."
+      },
+      {
+        "role": "Manajer Desain Produk dan Pengadaan",
+        "bio": "Nikola mengurus produk, pemasok, dan detail yang luput dari perhatian semua orang. Ia menolak memakai kacamata: menurutnya, kaca pembesar sudah menjalankan fungsi itu dengan baik, bahkan saat ia mencari kaca pembesarnya. Ia pun memeriksa bambu ala Terminator, tetapi dari jarak dua puluh sentimeter. Ukuran, sambungan, hasil akhir: tak ada yang lolos. Kecuali yang berada di seberang ruangan.",
+        "alt": "Nikola Calibre, karakter berwajah Nicolas Loffredo dengan wig cokelat, ikat kepala Jepang, kaca pembesar, dan tempat penyimpanan bambu",
+        "name": "Nikola Calibre",
+        "motto": "Kacamata? Saya sudah punya kaca pembesar."
+      }
+    ],
+    "mottoLabel": "Semboyan",
+    "honoraryLabel": "Anggota kehormatan",
+    "honorary": {
+      "name": "Watson",
+      "role": "Tangan kanan CEO",
+      "bio": "Meski berkaki pendek, Watson adalah tangan kanan CEO. Ia tidak menulis kode, tidak bernegosiasi, dan tak pernah mengusulkan rapat. Ia tetap di dekat meja dan rutin mengingatkan semua orang bahwa jalan-jalan tak bisa diunduh. Wibawanya bertumpu pada tatapan yang sangat terarah, biasanya ke pintu atau kotak biskuit.",
+      "motto": "Kurangi rapat, perbanyak jalan-jalan.",
+      "alt": "Seekor dachshund hitam dan cokelat duduk secara alami di samping meja kerja, tanpa pakaian atau aksesori"
+    }
+  },
+  "cookies": {
+    "label": "Kebijakan cookie",
+    "title": "Cookie dan pilihan Anda",
+    "intro": "Kami mengingat pilihan cookie Anda. Anda dapat mengizinkan penyimpanan bahasa dan pengukuran penggunaan dengan Google Analytics secara terpisah.",
+    "accept": "Terima semua cookie opsional",
+    "reject": "Tolak cookie opsional",
+    "manage": "Kelola preferensi",
+    "save": "Simpan preferensi saya",
+    "close": "Tutup",
+    "optional": "Ingat bahasa saya",
+    "optionalDescription": "Izinkan site_language mengingat bahasa yang Anda pilih secara eksplisit hingga 12 bulan.",
+    "essential": "Penyimpanan pilihan esensial",
+    "essentialDescription": "cookie_consent menyimpan pilihan bahasa dan analitik secara terpisah selama 180 hari. Cookie ini tidak memuat pengenal pengunjung yang unik.",
+    "policyLink": "Baca kebijakan cookie",
+    "sections": [
+      [
+        "Apa itu cookie?",
+        "Cookie adalah data teks kecil yang disimpan browser. Kami menggunakannya untuk mengingat pilihan Anda dan, dengan izin Anda, mengukur penggunaan situs."
+      ],
+      [
+        "Cookie esensial: cookie_consent",
+        "cookie_consent menyimpan pilihan bahasa dan analitik secara terpisah selama 180 hari. Cookie ini tidak memuat pengenal pengunjung yang unik."
+      ],
+      [
+        "Cookie opsional: site_language",
+        "site_language mengingat bahasa pilihan Anda hingga 365 hari jika Anda mengizinkan penyimpanannya."
+      ],
+      [
+        "Google Analytics",
+        "Dengan persetujuan Anda, Google Analytics mengukur penggunaan situs, seperti tampilan halaman. Google menerima data teknis koneksi dan browser. Cookie _ga dan _ga_LHR5R3H8ZP membedakan browser dan menyimpan status sesi hingga 180 hari. Nihon Essentials Hub mengatur tampilan halaman tanpa kueri atau fragmen URL, membatasi URL perujuk ke asalnya, dan menonaktifkan fitur iklan di tag situs."
+      ],
+      [
+        "Jika Anda menolak atau cookie diblokir",
+        "Situs tetap berfungsi jika Anda menolak atau memblokir cookie. Alamat halaman dan sesi tab dapat mempertahankan pilihan bahasa Anda. Jika cookie diblokir, tab juga dapat mengingat pilihan cookie Anda. Pemilihan bahasa otomatis menggunakan pengaturan browser."
+      ],
+      [
+        "Hosting dan situs web eksternal",
+        "Penyedia hosting kami menerima informasi koneksi teknis, termasuk alamat IP, untuk menyajikan dan mengamankan halaman. Amazon dan Pix-Kit menerapkan kebijakan mereka sendiri saat Anda mengikuti tautannya."
+      ],
+      [
+        "Mengubah atau menghapus pilihan Anda",
+        "Gunakan Kelola preferensi di bagian bawah halaman untuk mengubah setiap pilihan kapan saja. Menonaktifkan kategori akan menghapus cookie terkait dari situs. Anda juga dapat menghapus atau memblokir cookie melalui browser."
+      ],
+      [
+        "Pengelola situs web dan kontak",
+        "Situs web ini dikelola oleh Nihon Essentials Hub G.K., Fukuoka, Jepang. Untuk pertanyaan privasi, gunakan tautan email di halaman Kontak kami. Kebijakan ini menjelaskan perilaku yang diterapkan; bukan sertifikasi kepatuhan hukum universal."
+      ]
+    ],
+    "analytics": "Google Analytics",
+    "analyticsDescription": "Izinkan Google Analytics mengukur penggunaan situs ini.",
+    "analyticsPrivacyLink": "Kebijakan Privasi Google"
+  },
+  "corporateNumberLabel": "Nomor badan usaha (Jepang)",
+  "corporateNumberLink": "Verifikasi di gBizINFO (METI)",
+  "bamTrademark": "Merek dagang terdaftar di Jepang: 6953015 (merek kata), 6953016 (logo persegi), 6953017 (pola).",
+  "pixTrademark": "pix-kit adalah merek dagang milik Nihon Essentials Hub G.K. Logo terdaftar di Jepang: 7094172 (kelas 9 dan 41). Permohonan merek kata di Jepang: 2025-145412."
+}

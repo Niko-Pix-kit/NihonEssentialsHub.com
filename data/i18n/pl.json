@@ -1,0 +1,246 @@
+{
+  "title": "Projektować. Tworzyć. Dystrybuować.",
+  "description": "Nihon Essentials Hub to firma z Japonii zajmująca się projektowaniem i sprzedażą produktów, tworzeniem oprogramowania oraz niezależnymi publikacjami.",
+  "skip": "Przejdź do treści",
+  "menu": "Menu",
+  "nav": [
+    "Nasza misja",
+    "Nasze marki",
+    "O nas",
+    "Kontakt"
+  ],
+  "languageLabel": "Język",
+  "autoLabel": "Automatycznie",
+  "languageMode": "Auto",
+  "heroEyebrow": "Nihon Essentials Hub · Japonia",
+  "principles": [
+    "Projektować.",
+    "Tworzyć.",
+    "Dystrybuować."
+  ],
+  "heroText": "Łączymy projektowanie produktów, rozwój cyfrowy i dystrybucję, by przydatne pomysły trafiały do ludzi, dla których powstają.",
+  "heroAction": "Poznaj naszą misję",
+  "heroNote": "Niezależne myślenie. Praktyczne efekty.",
+  "missionLabel": "Nasza misja",
+  "missionTitle": "Trzy obszary. Jeden jasny cel.",
+  "missionText": "Tworzyć przydatne rzeczy i pomagać im znaleźć odbiorców.",
+  "caps": [
+    [
+      "Przedmioty i handel",
+      "Projektujemy produkty fizyczne, koordynujemy produkcję oraz zarządzamy ich prezentacją i sprzedażą w e-commerce."
+    ],
+    [
+      "Oprogramowanie i narzędzia cyfrowe",
+      "Tworzymy praktyczne aplikacje i wspieramy niezależne oprogramowanie poprzez dystrybucję i promocję."
+    ],
+    [
+      "Książki i niezależna twórczość",
+      "Wspieramy publikację, dystrybucję i marketing niezależnych książek oraz dzieł twórczych."
+    ]
+  ],
+  "authorLink": "Nicolas Loffredo — O autorze",
+  "brandsLabel": "Nasze marki",
+  "brandsTitle": "Dwie marki. Różne dziedziny.",
+  "brandsText": "Każda marka nadaje naszej pracy wyraźny kierunek.",
+  "bamText": "Bambusowe produkty do domu i miejsca pracy. Przemyślany design, praktyczna organizacja i ciepło naturalnego materiału.",
+  "bamLink": "Odwiedź sklep Amazon",
+  "pixText": "Praktyczne oprogramowanie i narzędzia cyfrowe do tworzenia, nauki i odkrywania. Build. Learn. Play.",
+  "pixLink": "Odwiedź pix-kit.com",
+  "aboutLabel": "O nas",
+  "aboutTitle": "Firma skupiona na przydatnych pomysłach.",
+  "aboutLead": "Nihon Essentials Hub G.K. to niezależna firma z siedzibą w Fukuoce w Japonii, działająca od 2023 roku.",
+  "aboutBody": "Zajmujemy się produktami fizycznymi, oprogramowaniem i niezależnymi publikacjami. Łączymy projektowanie i rozwój z praktyczną pracą nad wprowadzeniem produktu lub dzieła na rynek.",
+  "approachTitle": "Jak pracujemy",
+  "approach": [
+    [
+      "Zaczynamy od rzeczywistej potrzeby",
+      "Skupiamy się na jasnych celach i praktycznych zastosowaniach."
+    ],
+    [
+      "Łączymy tworzenie z dystrybucją",
+      "Od początku uwzględniamy sposób prezentacji, dostarczania i odkrywania produktu lub dzieła."
+    ],
+    [
+      "Szanujemy prawa niezależnych twórców",
+      "Autorzy i programiści zachowują prawa do swoich dzieł. Naszą rolę w dystrybucji i marketingu określa umowa z każdym twórcą."
+    ]
+  ],
+  "facts": [
+    [
+      "Firma",
+      "Nihon Essentials Hub G.K."
+    ],
+    [
+      "Siedziba",
+      "Fukuoka, Japonia"
+    ],
+    [
+      "Działamy od",
+      "2023"
+    ]
+  ],
+  "contactLabel": "Kontakt",
+  "contactTitle": "Skontaktuj się z nami.",
+  "contactText": "W sprawach biznesowych, propozycji dystrybucji lub niezależnych projektów napisz do nas e-mail.",
+  "emailAction": "Napisz do nas",
+  "privacy": "Prywatność i informacje o witrynie",
+  "privacyTitle": "Prywatność i informacje o witrynie",
+  "privacyContent": [
+    [
+      "Operator witryny",
+      "Operatorem witryny jest Nihon Essentials Hub G.K. (Nihon Essentials Hub 合同会社), Fukuoka, Japonia."
+    ],
+    [
+      "Przeglądanie witryny",
+      "To witryna informacyjna. Nie korzystamy z reklamowych plików cookie, formularzy kontaktowych ani osadzonych mediów podmiotów trzecich. Dostawca hostingu może przetwarzać techniczne dane połączenia w celu udostępniania i zabezpieczania witryny."
+    ],
+    [
+      "Google Analytics",
+      "Za Twoją zgodą Google Analytics mierzy korzystanie z witryny, w tym odsłony. Google otrzymuje techniczne dane połączenia i przeglądarki. Pliki _ga i _ga_LHR5R3H8ZP rozróżniają przeglądarki i zachowują stan sesji przez maksymalnie 180 dni. Nihon Essentials Hub konfiguruje pomiar odsłon bez parametrów zapytania i fragmentów URL, ogranicza adres odsyłający do jego źródła i wyłącza funkcje reklamowe w tagu witryny."
+    ],
+    [
+      "Kontakt e-mailowy",
+      "Linki e-mail otwierają Twoją aplikację pocztową. Jeśli do nas napiszesz, wykorzystamy przekazane informacje do udzielenia odpowiedzi i obsługi zapytania."
+    ],
+    [
+      "Witryny zewnętrzne",
+      "Linki do Amazon i pix-kit prowadzą do oddzielnych witryn. Ich operatorzy stosują własne polityki prywatności i warunki korzystania."
+    ],
+    [
+      "Marki i dzieła twórcze",
+      "BAMBOOM i pix-kit to marki Nihon Essentials Hub. O ile nie uzgodniono inaczej, prawa do niezależnych dzieł pozostają przy ich autorach i programistach. Nazwy marek i produktów innych firm należą do odpowiednich właścicieli."
+    ],
+    [
+      "Wybór języka i plików cookie",
+      "Automatyczny wybór języka korzysta z języka przeglądarki bez łączenia się z usługą geolokalizacji. Zlokalizowane adresy URL i preferencja sesji karty zachowują Twój wyraźny wybór podczas nawigacji. Trwały plik cookie języka jest ustawiany tylko po zaakceptowaniu preferencji. Niezbędny plik cookie zapamiętuje zgodę lub odmowę przez 6 miesięcy. Wybory można zmienić za pomocą opcji Zarządzaj preferencjami w stopce."
+    ]
+  ],
+  "back": "Powrót na stronę główną",
+  "notFound": "Nie znaleziono tej strony.",
+  "seoTitle": "Projektowanie produktów, oprogramowanie i wydawnictwo",
+  "navHome": "Strona główna",
+  "navAuthors": "Nasi autorzy",
+  "navTeam": "Nasz zespół",
+  "authors": {
+    "label": "Nasi autorzy",
+    "title": "Niezależne głosy.",
+    "bio": "Nicolas Loffredo, niezależny autor mieszkający w Japonii, wnosi do swojej twórczości ciekawość badacza. Odkryj jego książki i publikacje na stronie autora w serwisie Amazon.",
+    "link": "Poznaj autora na Amazon",
+    "alt": "Portret autora Nicolasa Loffredo"
+  },
+  "team": {
+    "title": "Nasz zespół",
+    "subtitle": "Mała firma. Trochę szalone osobowości. Bardzo konkretne projekty.",
+    "tagline": "Sześć wersji założyciela. I jamnik, który sprowadza wszystkich na ziemię.",
+    "newcomer": "Nowy w zespole",
+    "members": [
+      {
+        "role": "Dyrektor generalny i założyciel",
+        "bio": "Doktor chemii Nicolas studiował we Francji, a następnie wyjechał do Japonii. Pracował jako badacz, potem jako dyrektor w obszarze sztucznej inteligencji i analizy danych, między innymi przy widzeniu komputerowym i obrazowaniu medycznym. Założył Nihon Essentials Hub, żeby projektować, rozwijać i wprowadzać na rynek własne projekty. Prywatnie pasjonuje się ośmiornicami i takoyaki. Przyczyna pozostaje nieznana. Badania trwają, zwykle w porze obiadu.",
+        "alt": "Nicolas Loffredo w ciemnym garniturze, białej koszuli i krawacie",
+        "name": "Nicolas Loffredo",
+        "motto": "Nie znoszę zebrań. Nie planujcie zebrania, żeby o tym porozmawiać."
+      },
+      {
+        "role": "Programista full stack",
+        "bio": "Niklas woli poświęcić trzy wieczory na automatyzację zadania trwającego trzydzieści sekund, niż wykonać je drugi raz. Od front-endu po serwery wszystko trafia do któregoś z jego skryptów w Pythonie. Jego poranek przypomina początek filmu „Powrót do przyszłości”: kawa robi się sama, obsługiwana przez programy i roboty, które zmajstrował. Ręcznie trzeba tylko przypomnieć mu, że powinien ją również wypić.",
+        "alt": "Niklas Stack, programista stron internetowych z bujną czarną peruką i ogromnymi okularami",
+        "name": "Niklas Stack",
+        "motto": "Wszystko, co robisz więcej niż raz, zautomatyzuj."
+      },
+      {
+        "role": "Menedżer aplikacji na Androida",
+        "bio": "Nico tworzy aplikacje na Androida w Kotlinie i Javie, a potem testuje je na prawdziwych telefonach. Między kolejnymi wersjami wraca ratować świat w Secret of Mana. Gry retro nauczyły go, że dobry pomysł może przetrwać wszystkie generacje konsol. Jego zadanie poboczne: oliwki. Żadna statystyka nie uzasadnia zjadanych ilości.",
+        "alt": "Nico Droid, menedżer aplikacji na Androida w zabawnym, wyściełanym zielonym stroju inspirowanym Androidem",
+        "name": "Nico Droid",
+        "motto": "Zapisz. Przetestuj. Sięgnij po kolejną oliwkę."
+      },
+      {
+        "role": "Menedżer aplikacji Apple",
+        "bio": "Nicholas przygotowuje nasze pierwsze aplikacje na iOS. Dopracowuje interfejsy, wyrównuje detale i jest przekonany, że bardzo drogi przedmiot czyni właściciela nieco lepszym od innych. Rozmowy z Nico Droidem bywają więc ożywione. W Matrixie poprosiłby o czerwoną pigułkę w tytanowym wykończeniu, z dopłatą za etui. My pilnujemy jego budżetu, on naszego wykończenia.",
+        "alt": "Nicholas Swift, menedżer aplikacji Apple w stylowych okularach i eleganckim stroju inspirowanym Apple",
+        "name": "Nicholas Swift",
+        "motto": "Jest drogie, jest dobre."
+      },
+      {
+        "role": "Menedżerka marketingu i e-commerce",
+        "bio": "Nicole zarządza sklepami, kampaniami i pomysłami, które zwykle wpadają po trzy naraz. Potrafi zamienić kartę produktu w start rakiety, a chwilę później całkiem serio wrócić do ceny kliknięcia. Uwielbia jamniki, szlafroki i olej. Jamniki to życie. W pozostałych kwestiach nie opublikowano oficjalnego wyjaśnienia. Megafon służy jej głównie do ogłaszania, że ma „taki malutki pomysł”.",
+        "alt": "Nicole Pitch, postać z twarzą Nicolasa Loffredo, długą blond peruką, pomarańczowymi okularami, kwiecistą koszulą i megafonem",
+        "name": "Nicole Pitch",
+        "motto": "Jamniki to życie."
+      },
+      {
+        "role": "Menedżerka projektowania produktów i zaopatrzenia",
+        "bio": "Nikola zajmuje się produktami, dostawcami i szczegółami, których nikt wcześniej nie zauważył. Słabo widzi, ale odmawia noszenia okularów: uważa, że lupa świetnie je zastępuje, nawet kiedy szuka własnej lupy. Sprawdza więc bambus niczym Terminator, lecz z odległości dwudziestu centymetrów. Wymiary, łączenia, wykończenie: nic nie umyka jej kontroli. Poza tym, co znajduje się po drugiej stronie pokoju.",
+        "alt": "Nikola Calibre, postać z twarzą Nicolasa Loffredo, brązową peruką, japońską opaską na głowie, lupą i organizerem z bambusa",
+        "name": "Nikola Calibre",
+        "motto": "Okulary? Mam już lupę."
+      }
+    ],
+    "mottoLabel": "Motto",
+    "honoraryLabel": "Członek honorowy",
+    "honorary": {
+      "name": "Watson",
+      "role": "Prawa ręka prezesa",
+      "bio": "Prawa ręka prezesa, choć łapy ma raczej krótkie. Watson niczego nie programuje, nie negocjuje i nigdy nie proponuje zebrania. Trzyma się blisko biurka i regularnie przypomina wszystkim, że spaceru nie da się pobrać. Jego autorytet opiera się na bardzo wymownym spojrzeniu, zwykle skierowanym ku drzwiom albo pudełku z przysmakami.",
+      "motto": "Mniej zebrań, więcej spacerów.",
+      "alt": "Czarny podpalany jamnik siedzący naturalnie obok biurka, bez ubrania i akcesoriów"
+    }
+  },
+  "cookies": {
+    "label": "Polityka plików cookie",
+    "title": "Pliki cookie i Twoje wybory",
+    "intro": "Zapamiętujemy wybory dotyczące plików cookie. Możesz oddzielnie zezwolić na zapisywanie języka i pomiar korzystania z witryny przez Google Analytics.",
+    "accept": "Zaakceptuj wszystkie opcjonalne pliki cookie",
+    "reject": "Odrzuć opcjonalne cookies",
+    "manage": "Zarządzaj preferencjami",
+    "save": "Zapisz moje preferencje",
+    "close": "Zamknij",
+    "optional": "Zapamiętaj mój język",
+    "optionalDescription": "Zezwól, aby site_language zapamiętał Twój wyraźny wybór języka przez maksymalnie 12 miesięcy.",
+    "essential": "Niezbędny zapis wyboru",
+    "essentialDescription": "cookie_consent przechowuje osobne wybory dotyczące języka i analityki przez 180 dni. Nie zawiera unikalnego identyfikatora odwiedzającego.",
+    "policyLink": "Przeczytaj politykę plików cookie",
+    "sections": [
+      [
+        "Czym są pliki cookie?",
+        "Pliki cookie to niewielkie dane tekstowe zapisywane przez przeglądarkę. Służą do zapamiętywania wyborów oraz, za Twoją zgodą, do pomiaru korzystania z witryny."
+      ],
+      [
+        "Niezbędny plik cookie: cookie_consent",
+        "cookie_consent przechowuje osobne wybory dotyczące języka i analityki przez 180 dni. Nie zawiera unikalnego identyfikatora odwiedzającego."
+      ],
+      [
+        "Opcjonalny plik cookie: site_language",
+        "site_language zapamiętuje wybrany przez Ciebie język przez maksymalnie 365 dni, jeśli zezwolisz na jego zapisywanie."
+      ],
+      [
+        "Google Analytics",
+        "Za Twoją zgodą Google Analytics mierzy korzystanie z witryny, w tym odsłony. Google otrzymuje techniczne dane połączenia i przeglądarki. Pliki _ga i _ga_LHR5R3H8ZP rozróżniają przeglądarki i zachowują stan sesji przez maksymalnie 180 dni. Nihon Essentials Hub konfiguruje pomiar odsłon bez parametrów zapytania i fragmentów URL, ogranicza adres odsyłający do jego źródła i wyłącza funkcje reklamowe w tagu witryny."
+      ],
+      [
+        "W przypadku odmowy lub blokowania cookies",
+        "Witryna działa również po odrzuceniu lub zablokowaniu plików cookie. Adres strony i sesja karty mogą zachować wybór języka. Jeśli pliki cookie są zablokowane, karta może również zapamiętać Twoją decyzję. Automatyczny wybór języka korzysta z ustawień przeglądarki."
+      ],
+      [
+        "Hosting i witryny zewnętrzne",
+        "Nasz dostawca hostingu otrzymuje techniczne informacje o połączeniu, w tym adresy IP, w celu dostarczania i zabezpieczania stron. Amazon i Pix-Kit stosują własne zasady po przejściu do nich za pomocą linków."
+      ],
+      [
+        "Zmiana lub usunięcie wyborów",
+        "Użyj opcji Zarządzaj preferencjami w stopce, aby w dowolnym momencie zmienić każdy wybór. Wyłączenie kategorii usuwa jej pliki cookie z witryny. Możesz też usunąć lub zablokować pliki cookie w przeglądarce."
+      ],
+      [
+        "Operator witryny i kontakt",
+        "Operatorem tej witryny jest Nihon Essentials Hub G.K. z siedzibą w Fukuoce w Japonii. Pytania dotyczące prywatności można przesyłać za pomocą linku e-mail na stronie Kontakt. Ta polityka opisuje wdrożone działanie; nie jest certyfikatem powszechnej zgodności z prawem."
+      ]
+    ],
+    "analytics": "Google Analytics",
+    "analyticsDescription": "Zezwól Google Analytics na pomiar korzystania z tej witryny.",
+    "analyticsPrivacyLink": "Polityka prywatności Google"
+  },
+  "corporateNumberLabel": "Numer identyfikacyjny spółki (Japonia)",
+  "corporateNumberLink": "Sprawdź w gBizINFO (METI)",
+  "bamTrademark": "Znaki towarowe zarejestrowane w Japonii: 6953015 (znak słowny), 6953016 (kwadratowe logo), 6953017 (wzór).",
+  "pixTrademark": "pix-kit jest znakiem towarowym Nihon Essentials Hub G.K. Logo zarejestrowane w Japonii: 7094172 (klasy 9 i 41). Zgłoszenie słownego znaku towarowego w Japonii: 2025-145412."
+}

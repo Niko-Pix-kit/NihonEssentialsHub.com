@@ -1,0 +1,126 @@
+{
+  "id": "pix-moments",
+  "order": 10,
+  "brand": "Pix-kit",
+  "image": "assets/catalog/applications/pix-moments.webp",
+  "url": "https://pix-kit.com/apps/pix-moments/",
+  "locales": {
+    "fr": {
+      "title": "Pix-Moments",
+      "description": "Comptez les jours et suivez vos progrès en photos avec Pix-Moments pour Android. Widgets personnalisables, rappels et sauvegardes locales. Sans publicité.",
+      "url": "https://pix-kit.com/fr/apps/pix-moments/"
+    },
+    "ja": {
+      "title": "Pix-Moments",
+      "description": "Pix-Momentsで予定までの日数や写真の変化を記録。Android向けのウィジェット、リマインダー、ローカルバックアップ。広告なし。",
+      "url": "https://pix-kit.com/ja/apps/pix-moments/"
+    },
+    "zh-tw": {
+      "title": "Pix-Moments",
+      "description": "使用 Android 版 Pix-Moments 倒數重要事件、計算天數並用照片記錄進展。自訂小工具、提醒與本機備份，無廣告。",
+      "url": "https://pix-kit.com/zh-tw/apps/pix-moments/"
+    },
+    "nl": {
+      "title": "Pix-Moments",
+      "description": "Tel af naar gebeurtenissen, houd dagen bij en leg fotovoortgang vast met Pix-Moments voor Android. Persoonlijke widgets, herinneringen en lokale back-ups. Zonder advertenties.",
+      "url": "https://pix-kit.com/nl/apps/pix-moments/"
+    },
+    "pt-br": {
+      "title": "Pix-Moments",
+      "description": "Conte os dias, acompanhe eventos e registre o progresso em fotos com o Pix-Moments para Android. Widgets personalizados, lembretes e backups locais. Sem publicidade.",
+      "url": "https://pix-kit.com/pt-br/apps/pix-moments/"
+    },
+    "zh-cn": {
+      "title": "Pix-Moments",
+      "description": "使用 Android 版 Pix-Moments 倒数重要事件、计算天数并用照片记录进展。自定义小组件、提醒与本地备份，无广告。",
+      "url": "https://pix-kit.com/zh-cn/apps/pix-moments/"
+    },
+    "pt": {
+      "title": "Pix-Moments",
+      "description": "Conte os dias, acompanhe eventos e registe o progresso em fotografias com o Pix-Moments para Android. Widgets personalizados, lembretes e cópias de segurança locais. Sem publicidade.",
+      "url": "https://pix-kit.com/pt/apps/pix-moments/"
+    },
+    "es": {
+      "title": "Pix-Moments",
+      "description": "Cuenta días y registra tu progreso en fotos con Pix-Moments para Android. Widgets personalizables, recordatorios y copias locales. Sin anuncios.",
+      "url": "https://pix-kit.com/es/apps/pix-moments/"
+    },
+    "de": {
+      "title": "Pix-Moments",
+      "description": "Zähle die Tage bis zu Ereignissen, halte vergangene Zeit fest und dokumentiere Fortschritte mit Fotos: Pix-Moments für Android mit Widgets, Erinnerungen und lokalen Sicherungen. Ohne Werbung.",
+      "url": "https://pix-kit.com/de/apps/pix-moments/"
+    },
+    "tr": {
+      "title": "Pix-Moments",
+      "description": "Android için Pix-Moments ile etkinliklere geri sayın, günleri takip edin ve ilerlemeyi fotoğraflarla kaydedin. Özel widget'lar, hatırlatıcılar ve yerel yedekler. Reklamsız.",
+      "url": "https://pix-kit.com/tr/apps/pix-moments/"
+    },
+    "id": {
+      "title": "Pix-Moments",
+      "description": "Hitung mundur ke acara, catat hari, dan dokumentasikan progres foto dengan Pix-Moments untuk Android. Widget khusus, pengingat, dan cadangan lokal. Tanpa iklan.",
+      "url": "https://pix-kit.com/id/apps/pix-moments/"
+    },
+    "pl": {
+      "title": "Pix-Moments",
+      "description": "Odliczaj do wydarzeń, licz dni i zapisuj postępy na zdjęciach z Pix-Moments na Androida. Własne widżety, przypomnienia i lokalne kopie zapasowe. Bez reklam.",
+      "url": "https://pix-kit.com/pl/apps/pix-moments/"
+    },
+    "en": {
+      "title": "Pix-Moments",
+      "description": "Count down to events, track days and capture photo progress with Pix-Moments for Android. Custom widgets, reminders and local backups. No ads.",
+      "url": "https://pix-kit.com/apps/pix-moments/"
+    },
+    "ko": {
+      "title": "Pix-Moments",
+      "description": "Android용 Pix-Moments로 이벤트까지 남은 날과 지난날을 세고 사진으로 변화를 기록하세요. 맞춤 위젯, 알림, 로컬 백업을 제공합니다. 광고가 없습니다.",
+      "url": "https://pix-kit.com/ko/apps/pix-moments/"
+    },
+    "it": {
+      "title": "Pix-Moments",
+      "description": "Conta i giorni, attendi gli eventi e fotografa i progressi con Pix-Moments per Android. Widget personalizzati, promemoria e backup locali. Senza pubblicità.",
+      "url": "https://pix-kit.com/it/apps/pix-moments/"
+    },
+    "hi": {
+      "title": "Pix-Moments",
+      "description": "Android के लिए Pix-Moments से इवेंट तक के दिन गिनें, बीते दिन देखें और फ़ोटो में प्रगति दर्ज करें। मनचाहे विजेट, रिमाइंडर और स्थानीय बैकअप। कोई विज्ञापन नहीं।",
+      "url": "https://pix-kit.com/hi/apps/pix-moments/"
+    },
+    "ar": {
+      "title": "Pix-Moments",
+      "description": "عدّ الأيام حتى الأحداث، وتتبع الوقت، ووثّق تقدمك بالصور مع Pix-Moments على Android. أدوات مصغرة مخصصة وتذكيرات ونسخ احتياطية محلية. بلا إعلانات.",
+      "url": "https://pix-kit.com/ar/apps/pix-moments/"
+    },
+    "ru": {
+      "title": "Pix-Moments",
+      "description": "Отсчитывайте дни до событий, считайте прошедшие дни и фиксируйте прогресс на фото с Pix-Moments для Android. Настраиваемые виджеты, напоминания и локальные резервные копии. Без рекламы.",
+      "url": "https://pix-kit.com/ru/apps/pix-moments/"
+    },
+    "uk": {
+      "title": "Pix-Moments",
+      "description": "Відлічуйте дні до подій, рахуйте минулі дні й фіксуйте прогрес на фото з Pix-Moments для Android. Власні віджети, нагадування та локальні резервні копії. Без реклами.",
+      "url": "https://pix-kit.com/uk/apps/pix-moments/"
+    }
+  },
+  "availableLanguages": [
+    "en",
+    "fr",
+    "ja",
+    "de",
+    "es",
+    "it",
+    "pt",
+    "pt-BR",
+    "nl",
+    "pl",
+    "ru",
+    "uk",
+    "zh-Hans",
+    "zh-Hant",
+    "ko",
+    "ar",
+    "hi",
+    "id",
+    "tr"
+  ],
+  "publishedAt": "2026-09-28"
+}

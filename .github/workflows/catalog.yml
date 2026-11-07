@@ -1,0 +1,79 @@
+name: Validate and publish catalog
+
+on:
+  push:
+    branches: [main, 'work/**']
+    paths:
+      - 'VERSION'
+      - 'data/**'
+      - 'assets/catalog/**'
+      - 'assets/carousels.*'
+      - 'assets/analytics.js'
+      - 'assets/consent.js'
+      - 'assets/language.js'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/catalog.yml'
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: catalog-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  catalog:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+      pages: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check site JavaScript
+        run: |
+          for script in assets/{analytics,carousels,consent,language}.js; do
+            node --check "$script"
+          done
+      - name: Test catalog and generate localized pages
+        run: |
+          python3 -m unittest discover -s tests -v
+          python3 scripts/build.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install pinned browser test engines
+        run: |
+          npm install --prefix "$RUNNER_TEMP/carousel-browser-tests" --no-package-lock --no-save playwright@1.62.1
+          "$RUNNER_TEMP/carousel-browser-tests/node_modules/.bin/playwright" install --with-deps chromium firefox
+      - name: Verify desktop Firefox, Chromium and mobile carousels
+        env:
+          NODE_PATH: ${{ runner.temp }}/carousel-browser-tests/node_modules
+          BROWSER_TEST_ARTIFACTS: ${{ runner.temp }}/carousel-browser-artifacts
+        run: node tests/browser_carousels.cjs
+      - name: Verify analytics consent and privacy in the browser
+        env:
+          NODE_PATH: ${{ runner.temp }}/carousel-browser-tests/node_modules
+        run: node tests/browser_analytics.cjs
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: carousel-browser-failure
+          path: ${{ runner.temp }}/carousel-browser-artifacts
+          retention-days: 7
+      - name: Publish generated pages
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add -- index.html ':(glob)**/index.html' sitemap.xml 404.html
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Generate localized catalog pages'
+            git push origin HEAD:main
+            # A GITHUB_TOKEN push does not trigger Pages automatically.
+            gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+          fi

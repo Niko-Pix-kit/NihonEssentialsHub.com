@@ -1,0 +1,85 @@
+{
+  "id": "bamboom-of-02",
+  "order": 30,
+  "brand": "BAMBOOM",
+  "image": "assets/catalog/products/of-02.webp",
+  "url": "https://www.amazon.co.jp/dp/B0GC96948W",
+  "locales": {
+    "en": {
+      "title": "OF-02 · Monitor stand with storage",
+      "description": "A bamboo monitor stand with integrated storage for A4 paper and stationery, helping keep your workspace organized."
+    },
+    "fr": {
+      "title": "OF-02 · Support d’écran avec rangement",
+      "description": "Un support d’écran en bambou avec rangement intégré pour le papier A4 et la papeterie, pour un espace de travail mieux organisé."
+    },
+    "ja": {
+      "title": "OF-02 · 収納付きモニタースタンド",
+      "description": "A4用紙や文房具を収納できる竹製モニタースタンド。作業スペースをすっきり整えます。"
+    },
+    "de": {
+      "title": "OF-02 · Monitorständer mit Stauraum",
+      "description": "Ein Monitorständer aus Bambus mit integriertem Stauraum für A4-Papier und Schreibwaren für einen aufgeräumten Arbeitsplatz."
+    },
+    "es": {
+      "title": "OF-02 · Soporte para monitor con almacenaje",
+      "description": "Un soporte de bambú para monitor con espacio integrado para papel A4 y artículos de papelería, para organizar mejor el escritorio."
+    },
+    "it": {
+      "title": "OF-02 · Supporto per monitor con scomparti",
+      "description": "Un supporto per monitor in bambù con spazio integrato per carta A4 e cancelleria, per una postazione di lavoro più ordinata."
+    },
+    "pt": {
+      "title": "OF-02 · Suporte para monitor com arrumação",
+      "description": "Um suporte de bambu para monitor com arrumação integrada para papel A4 e artigos de papelaria, para uma secretária mais organizada."
+    },
+    "pt-br": {
+      "title": "OF-02 · Suporte para monitor com armazenamento",
+      "description": "Um suporte de bambu para monitor com espaço integrado para papel A4 e artigos de papelaria, para uma mesa mais organizada."
+    },
+    "nl": {
+      "title": "OF-02 · Monitorstandaard met opbergruimte",
+      "description": "Een bamboe monitorstandaard met ingebouwde opbergruimte voor A4-papier en schrijfwaren, voor een overzichtelijke werkplek."
+    },
+    "pl": {
+      "title": "OF-02 · Podstawka pod monitor ze schowkami",
+      "description": "Bambusowa podstawka pod monitor ze schowkami na papier A4 i artykuły papiernicze pomaga uporządkować miejsce pracy."
+    },
+    "ru": {
+      "title": "OF-02 · Подставка для монитора с хранением",
+      "description": "Бамбуковая подставка для монитора со встроенными отделениями для бумаги A4 и канцелярии помогает организовать рабочее место."
+    },
+    "uk": {
+      "title": "OF-02 · Підставка для монітора зі зберіганням",
+      "description": "Бамбукова підставка для монітора з відділеннями для паперу A4 та канцелярії допомагає впорядкувати робоче місце."
+    },
+    "zh-cn": {
+      "title": "OF-02 · 带收纳空间的显示器支架",
+      "description": "竹制显示器支架内设A4纸张和文具收纳空间，帮助保持工作区整洁。"
+    },
+    "zh-tw": {
+      "title": "OF-02 · 附收納空間的螢幕架",
+      "description": "竹製螢幕架內設A4紙張和文具收納空間，幫助保持工作區整潔。"
+    },
+    "ko": {
+      "title": "OF-02 · 수납형 모니터 받침대",
+      "description": "A4 용지와 문구류를 보관하는 공간이 내장된 대나무 모니터 받침대로 작업 공간을 정돈하세요."
+    },
+    "ar": {
+      "title": "OF-02 · حامل شاشة مع مساحة تخزين",
+      "description": "حامل شاشة من الخيزران مع مساحة تخزين مدمجة لورق A4 والقرطاسية، للمساعدة في ترتيب مساحة العمل."
+    },
+    "hi": {
+      "title": "OF-02 · स्टोरेज वाला मॉनिटर स्टैंड",
+      "description": "A4 कागज़ और स्टेशनरी के लिए बने स्टोरेज वाला बाँस का मॉनिटर स्टैंड आपके कार्यस्थल को व्यवस्थित रखने में मदद करता है।"
+    },
+    "id": {
+      "title": "OF-02 · Dudukan monitor dengan penyimpanan",
+      "description": "Dudukan monitor bambu dengan ruang penyimpanan terpadu untuk kertas A4 dan alat tulis, agar area kerja lebih tertata."
+    },
+    "tr": {
+      "title": "OF-02 · Depolama alanlı monitör standı",
+      "description": "A4 kâğıt ve kırtasiye malzemeleri için entegre depolama alanı bulunan bambu monitör standı, çalışma alanınızı düzenlemeye yardımcı olur."
+    }
+  }
+}

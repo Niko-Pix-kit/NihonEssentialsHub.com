@@ -1,0 +1,85 @@
+{
+  "id": "bamboom-of-01",
+  "order": 40,
+  "brand": "BAMBOOM",
+  "image": "assets/catalog/products/of-01.webp",
+  "url": "https://www.amazon.co.jp/dp/B0D7WPRLW4",
+  "locales": {
+    "en": {
+      "title": "OF-01 · Modular desk organizer PRO",
+      "description": "A bamboo desk organizer with removable dividers, so you can arrange pens and stationery to suit your workspace."
+    },
+    "fr": {
+      "title": "OF-01 · Organiseur de bureau modulable PRO",
+      "description": "Un organiseur de bureau en bambou à séparateurs amovibles pour disposer stylos et papeterie selon vos besoins."
+    },
+    "ja": {
+      "title": "OF-01 · 仕切りを変えられるデスクオーガナイザー PRO",
+      "description": "取り外し可能な仕切り付きの竹製デスクオーガナイザー。ペンや文房具に合わせてレイアウトを変えられます。"
+    },
+    "de": {
+      "title": "OF-01 · Modularer Schreibtisch-Organizer PRO",
+      "description": "Ein Schreibtisch-Organizer aus Bambus mit herausnehmbaren Trennwänden, um Stifte und Schreibwaren nach Bedarf anzuordnen."
+    },
+    "es": {
+      "title": "OF-01 · Organizador modular de escritorio PRO",
+      "description": "Un organizador de escritorio de bambú con separadores extraíbles para distribuir bolígrafos y artículos de papelería a tu gusto."
+    },
+    "it": {
+      "title": "OF-01 · Organizer modulare da scrivania PRO",
+      "description": "Un organizer da scrivania in bambù con divisori rimovibili per sistemare penne e cancelleria secondo le proprie esigenze."
+    },
+    "pt": {
+      "title": "OF-01 · Organizador modular de secretária PRO",
+      "description": "Um organizador de secretária em bambu com divisórias amovíveis para dispor canetas e artigos de papelaria conforme as suas necessidades."
+    },
+    "pt-br": {
+      "title": "OF-01 · Organizador modular de mesa PRO",
+      "description": "Um organizador de mesa em bambu com divisórias removíveis para distribuir canetas e artigos de papelaria conforme suas necessidades."
+    },
+    "nl": {
+      "title": "OF-01 · Modulaire bureau-organizer PRO",
+      "description": "Een bamboe bureau-organizer met uitneembare verdelers om pennen en schrijfwaren naar wens in te delen."
+    },
+    "pl": {
+      "title": "OF-01 · Modułowy organizer na biurko PRO",
+      "description": "Bambusowy organizer na biurko z wyjmowanymi przegródkami umożliwia rozmieszczenie długopisów i artykułów papierniczych według potrzeb."
+    },
+    "ru": {
+      "title": "OF-01 · Модульный настольный органайзер PRO",
+      "description": "Бамбуковый органайзер со съёмными перегородками позволяет разместить ручки и канцелярские принадлежности по своему усмотрению."
+    },
+    "uk": {
+      "title": "OF-01 · Модульний настільний органайзер PRO",
+      "description": "Бамбуковий органайзер зі знімними перегородками дає змогу розмістити ручки та канцелярське приладдя відповідно до ваших потреб."
+    },
+    "zh-cn": {
+      "title": "OF-01 · 模块化桌面收纳架 PRO",
+      "description": "带可拆卸隔板的竹制桌面收纳架，可根据需要摆放笔和文具。"
+    },
+    "zh-tw": {
+      "title": "OF-01 · 模組化桌面收納架 PRO",
+      "description": "附可拆卸隔板的竹製桌面收納架，可依需要擺放筆和文具。"
+    },
+    "ko": {
+      "title": "OF-01 · 모듈형 데스크 정리함 PRO",
+      "description": "분리형 칸막이가 있는 대나무 데스크 정리함으로 펜과 문구류를 원하는 대로 배치할 수 있습니다."
+    },
+    "ar": {
+      "title": "OF-01 · منظّم مكتب قابل للتعديل PRO",
+      "description": "منظّم مكتب من الخيزران بفواصل قابلة للإزالة لترتيب الأقلام والقرطاسية بما يناسب مساحة عملك."
+    },
+    "hi": {
+      "title": "OF-01 · मॉड्यूलर डेस्क ऑर्गनाइज़र PRO",
+      "description": "हटाए जा सकने वाले विभाजकों वाला बाँस का डेस्क ऑर्गनाइज़र, जिसमें पेन और स्टेशनरी को ज़रूरत के अनुसार रखा जा सकता है।"
+    },
+    "id": {
+      "title": "OF-01 · Organizer meja modular PRO",
+      "description": "Organizer meja bambu dengan sekat yang dapat dilepas untuk menata pena dan alat tulis sesuai kebutuhan."
+    },
+    "tr": {
+      "title": "OF-01 · Modüler masa düzenleyici PRO",
+      "description": "Çıkarılabilir bölmelere sahip bambu masa düzenleyici ile kalemleri ve kırtasiye malzemelerini ihtiyacınıza göre yerleştirebilirsiniz."
+    }
+  }
+}

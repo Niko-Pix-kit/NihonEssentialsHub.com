@@ -1,0 +1,85 @@
+{
+  "id": "bamboom-of-05",
+  "order": 5,
+  "brand": "BAMBOOM",
+  "image": "assets/catalog/products/of-05.webp",
+  "url": "https://www.amazon.co.jp/dp/B0FDFVGCWS",
+  "locales": {
+    "en": {
+      "title": "OF-05 · Bamboo wall shelf",
+      "description": "A bamboo wall shelf for displaying small everyday objects and decorative items while keeping surfaces clear."
+    },
+    "fr": {
+      "title": "OF-05 · Étagère murale en bambou",
+      "description": "Une étagère murale en bambou pour exposer les petits objets du quotidien et les éléments décoratifs tout en libérant les surfaces."
+    },
+    "ja": {
+      "title": "OF-05 · 竹製ウォールシェルフ",
+      "description": "日常の小物や飾りを壁にすっきり並べられる竹製シェルフ。机や棚の上を広く使えます。"
+    },
+    "de": {
+      "title": "OF-05 · Wandregal aus Bambus",
+      "description": "Ein Wandregal aus Bambus für kleine Alltagsgegenstände und Dekoration, das auf Tisch und Ablagen Platz schafft."
+    },
+    "es": {
+      "title": "OF-05 · Estante de pared de bambú",
+      "description": "Un estante de pared de bambú para colocar pequeños objetos cotidianos y decorativos sin ocupar espacio en mesas y otras superficies."
+    },
+    "it": {
+      "title": "OF-05 · Mensola da parete in bambù",
+      "description": "Una mensola da parete in bambù per esporre piccoli oggetti quotidiani e decorazioni, lasciando libere le superfici."
+    },
+    "pt": {
+      "title": "OF-05 · Prateleira de parede em bambu",
+      "description": "Uma prateleira de parede em bambu para expor pequenos objetos do dia a dia e peças decorativas, deixando as superfícies livres."
+    },
+    "pt-br": {
+      "title": "OF-05 · Prateleira de parede de bambu",
+      "description": "Uma prateleira de parede de bambu para expor pequenos objetos do dia a dia e itens decorativos, deixando as superfícies livres."
+    },
+    "nl": {
+      "title": "OF-05 · Bamboe wandplank",
+      "description": "Een bamboe wandplank voor kleine dagelijkse spullen en decoratie, zodat tafels en andere oppervlakken vrij blijven."
+    },
+    "pl": {
+      "title": "OF-05 · Bambusowa półka ścienna",
+      "description": "Bambusowa półka ścienna na drobne przedmioty codziennego użytku i dekoracje, która pozwala zwolnić miejsce na blatach."
+    },
+    "ru": {
+      "title": "OF-05 · Бамбуковая настенная полка",
+      "description": "Бамбуковая настенная полка для повседневных мелочей и декора, которая помогает освободить место на столах и других поверхностях."
+    },
+    "uk": {
+      "title": "OF-05 · Бамбукова настінна полиця",
+      "description": "Бамбукова настінна полиця для повсякденних дрібниць і декору, що допомагає звільнити місце на столах та інших поверхнях."
+    },
+    "zh-cn": {
+      "title": "OF-05 · 竹制壁挂置物架",
+      "description": "竹制壁挂置物架，可陈列日常小物和装饰品，让桌面及其他台面保持整洁。"
+    },
+    "zh-tw": {
+      "title": "OF-05 · 竹製壁掛置物架",
+      "description": "竹製壁掛置物架，可陳列日常小物與裝飾品，讓桌面及其他檯面保持整潔。"
+    },
+    "ko": {
+      "title": "OF-05 · 대나무 벽 선반",
+      "description": "일상 소품과 장식품을 올려 두는 대나무 벽 선반으로 책상과 다른 가구 위 공간을 여유롭게 사용할 수 있습니다."
+    },
+    "ar": {
+      "title": "OF-05 · رف جداري من الخيزران",
+      "description": "رف جداري من الخيزران لعرض الأغراض اليومية الصغيرة وقطع الزينة مع إبقاء أسطح الأثاث خالية."
+    },
+    "hi": {
+      "title": "OF-05 · बाँस की दीवार पर लगने वाली शेल्फ",
+      "description": "रोज़मर्रा की छोटी वस्तुओं और सजावटी सामान को रखने के लिए बाँस की दीवार पर लगने वाली शेल्फ, जिससे मेज़ और दूसरी सतहों पर जगह खाली रहती है।"
+    },
+    "id": {
+      "title": "OF-05 · Rak dinding bambu",
+      "description": "Rak dinding bambu untuk memajang barang kecil sehari-hari dan hiasan, sehingga meja dan permukaan lainnya tetap lapang."
+    },
+    "tr": {
+      "title": "OF-05 · Bambu duvar rafı",
+      "description": "Küçük günlük eşyaları ve dekoratif objeleri sergilerken masa ve diğer yüzeylerde yer açan bambu duvar rafı."
+    }
+  }
+}

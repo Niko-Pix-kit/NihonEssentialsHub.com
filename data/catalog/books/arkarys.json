@@ -1,0 +1,63 @@
+{
+  "id": "arkarys",
+  "order": 20,
+  "author": "Nicolas Loffredo",
+  "editions": {
+    "fr": {
+      "title": "L’Anomalie d’Arkarys — Tome 1",
+      "description": "Un galet mystérieux bouleverse la vie d’Eldric. Avec Aria, il doit comprendre l’origine de pouvoirs extraordinaires et échapper aux forces qui les traquent dans le monde de Mystoria.",
+      "url": "https://www.amazon.fr/dp/B0GWTXNDPV",
+      "image": "assets/catalog/books/arkarys-fr.webp",
+      "linkKind": "product"
+    },
+    "en": {
+      "title": "The Arkarys Anomaly — Book 1",
+      "description": "A mysterious pebble changes Eldric's life. Alongside Aria, he must uncover the origin of extraordinary powers and escape the forces pursuing them through Mystoria.",
+      "url": "https://www.amazon.com/dp/B0GWPY2MVW",
+      "image": "assets/catalog/books/arkarys-en.webp",
+      "linkKind": "product"
+    },
+    "de": {
+      "title": "Die Anomalie von Arkarys — Band 1",
+      "description": "Ein geheimnisvoller Kieselstein verändert Eldrics Leben. Gemeinsam mit Aria muss er den Ursprung außergewöhnlicher Kräfte ergründen und ihren Verfolgern in Mystoria entkommen.",
+      "url": "https://www.amazon.de/dp/B0GWQ1RFTB",
+      "image": "assets/catalog/books/arkarys-de.webp",
+      "linkKind": "product"
+    },
+    "it": {
+      "title": "L’Anomalia di Arkarys — Tomo 1",
+      "description": "Un misterioso ciottolo sconvolge la vita di Eldric. Insieme ad Aria, dovrà scoprire l'origine di poteri straordinari e sfuggire alle forze che li inseguono a Mystoria.",
+      "url": "https://www.amazon.it/dp/B0GWQCHY58",
+      "image": "assets/catalog/books/arkarys-it.webp",
+      "linkKind": "product"
+    },
+    "es": {
+      "title": "La anomalía de Arkarys — Tomo 1",
+      "description": "Un misterioso guijarro cambia la vida de Eldric. Junto a Aria, deberá descubrir el origen de unos poderes extraordinarios y escapar de quienes los persiguen por Mystoria.",
+      "url": "https://www.amazon.es/dp/B0GWQ619G6",
+      "image": "assets/catalog/books/arkarys-es.webp",
+      "linkKind": "product"
+    },
+    "pt": {
+      "title": "A Anomalia de Arkarys — Tomo 1",
+      "description": "Um seixo misterioso transforma a vida de Eldric. Ao lado de Aria, terá de descobrir a origem de poderes extraordinários e escapar às forças que os perseguem em Mystoria.",
+      "url": "https://www.amazon.es/dp/B0GWQ4HTJ6",
+      "image": "assets/catalog/books/arkarys-pt.webp",
+      "linkKind": "product"
+    },
+    "nl": {
+      "title": "De anomalie van Arkarys — Deel 1",
+      "description": "Een mysterieuze kei zet Eldrics leven op zijn kop. Samen met Aria moet hij de oorsprong van bijzondere krachten achterhalen en ontsnappen aan hun achtervolgers in Mystoria.",
+      "url": "https://www.amazon.nl/dp/B0GWPLXKRH",
+      "image": "assets/catalog/books/arkarys-nl.webp",
+      "linkKind": "product"
+    },
+    "pt-br": {
+      "title": "A Anomalia de Arkarys — Tomo 1",
+      "description": "Uma pedra misteriosa transforma a vida de Eldric. Ao lado de Aria, ele terá de descobrir a origem de poderes extraordinários e escapar das forças que os perseguem em Mystoria.",
+      "url": "https://www.amazon.es/dp/B0GWQ4HTJ6",
+      "image": "assets/catalog/books/arkarys-pt.webp",
+      "linkKind": "product"
+    }
+  }
+}

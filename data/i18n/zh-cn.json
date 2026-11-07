@@ -1,0 +1,246 @@
+{
+  "title": "设计。开发。发行。",
+  "description": "Nihon Essentials Hub是一家立足日本的公司，业务涵盖产品设计与电商、软件开发及独立出版。",
+  "skip": "跳转至正文",
+  "menu": "菜单",
+  "nav": [
+    "我们的使命",
+    "旗下品牌",
+    "关于我们",
+    "联系我们"
+  ],
+  "languageLabel": "语言",
+  "autoLabel": "自动选择",
+  "languageMode": "自动",
+  "heroEyebrow": "Nihon Essentials Hub · 日本",
+  "principles": [
+    "设计。",
+    "开发。",
+    "发行。"
+  ],
+  "heroText": "我们连接产品设计、数字开发与发行，将实用的创意带给真正需要它们的人。",
+  "heroAction": "了解我们的使命",
+  "heroNote": "独立思考，务实行动。",
+  "missionLabel": "我们的使命",
+  "missionTitle": "三项业务，一个明确的目标。",
+  "missionText": "创造实用之物，帮助它们找到自己的受众。",
+  "caps": [
+    [
+      "物品与电商",
+      "我们设计实体产品、协调制造，并负责产品在电商平台上的展示与销售。"
+    ],
+    [
+      "软件与数字工具",
+      "我们开发实用的应用，并通过发行与推广支持独立软件。"
+    ],
+    [
+      "书籍与独立创作",
+      "我们为独立书籍及创作作品提供出版、发行与营销支持。"
+    ]
+  ],
+  "authorLink": "Nicolas Loffredo — 关于作者",
+  "brandsLabel": "旗下品牌",
+  "brandsTitle": "两个品牌，各有所长。",
+  "brandsText": "每个品牌都聚焦于我们业务的一个领域。",
+  "bamText": "为家居与工作空间打造竹制用品。用心的设计、实用的收纳，以及天然材料的温暖质感。",
+  "bamLink": "访问亚马逊店铺",
+  "pixText": "帮助创作、学习与探索的实用软件和数字工具。Build. Learn. Play.",
+  "pixLink": "访问pix-kit.com",
+  "aboutLabel": "关于我们",
+  "aboutTitle": "以实用创意为核心的公司。",
+  "aboutLead": "Nihon Essentials Hub G.K.是一家位于日本福冈的独立公司，自2023年起开展业务。",
+  "aboutBody": "我们的业务涵盖实体产品、软件与独立出版。我们将设计和开发，与产品或创作作品进入市场所需的实际工作连接起来。",
+  "approachTitle": "我们的工作方式",
+  "approach": [
+    [
+      "从真实需求出发",
+      "我们注重明确的目的与实际用途。"
+    ],
+    [
+      "连接创作与发行",
+      "从项目开始，我们便考虑产品或作品如何展示、交付，以及如何被发现。"
+    ],
+    [
+      "尊重独立权属",
+      "作者与开发者保留其作品的权利。我们在发行和营销中的职责，由与每位创作者达成的协议确定。"
+    ]
+  ],
+  "facts": [
+    [
+      "公司",
+      "Nihon Essentials Hub G.K."
+    ],
+    [
+      "所在地",
+      "日本福冈"
+    ],
+    [
+      "开始运营",
+      "2023"
+    ]
+  ],
+  "contactLabel": "联系我们",
+  "contactTitle": "欢迎联系。",
+  "contactText": "有关业务咨询、发行合作或独立项目，欢迎通过电子邮件联系我们。",
+  "emailAction": "发送邮件",
+  "privacy": "隐私与网站信息",
+  "privacyTitle": "隐私与网站信息",
+  "privacyContent": [
+    [
+      "网站运营方",
+      "本网站由Nihon Essentials Hub G.K.（Nihon Essentials Hub 合同会社）运营，公司位于日本福冈。"
+    ],
+    [
+      "浏览本网站",
+      "本网站用于信息展示。我们不使用广告Cookie、联系表单或嵌入式第三方媒体。托管服务商可能处理技术连接数据，以提供网站服务并保障安全。"
+    ],
+    [
+      "Google Analytics",
+      "经您同意，Google Analytics 会衡量网站使用情况，例如网页浏览量。Google 会接收技术连接数据和浏览器数据。_ga 和 _ga_LHR5R3H8ZP 用于区分浏览器并保留会话状态，最长 180 天。Nihon Essentials Hub 的网页浏览统计配置会排除网址查询参数和片段，将来源网址限制为其源，并关闭网站代码中的广告功能。"
+    ],
+    [
+      "通过电子邮件联系",
+      "邮件链接将打开您自己的邮件应用。如您来信，我们会使用您提供的信息回复并处理咨询。"
+    ],
+    [
+      "外部网站",
+      "Amazon与pix-kit链接指向独立网站，其运营方适用各自的隐私政策与条款。"
+    ],
+    [
+      "品牌与创作作品",
+      "BAMBOOM与pix-kit是Nihon Essentials Hub的品牌。除非另有约定，独立作品的权利归各自的作者与开发者所有。其他公司的品牌与产品名称仍归其各自权利人所有。"
+    ],
+    [
+      "语言与Cookie选择",
+      "自动语言选择使用浏览器语言，不联系地理定位服务。各语言URL及标签页会话偏好设置，会在浏览时保留您的明确选择。只有在您接受偏好设置后，才会设置持久的语言Cookie。必要Cookie会将接受或拒绝的选择保存6个月。您可通过页脚的“管理偏好设置”更改选择。"
+    ]
+  ],
+  "back": "返回首页",
+  "notFound": "找不到此页面。",
+  "seoTitle": "产品设计、软件与独立出版",
+  "navHome": "首页",
+  "navAuthors": "我们的作者",
+  "navTeam": "我们的团队",
+  "authors": {
+    "label": "我们的作者",
+    "title": "独立的声音。",
+    "bio": "Nicolas Loffredo是一位常驻日本的独立作者，将研究者的好奇心融入写作。欢迎前往他的Amazon作者页面，了解其书籍与出版作品。",
+    "link": "在Amazon了解作者",
+    "alt": "作者Nicolas Loffredo的肖像"
+  },
+  "team": {
+    "title": "我们的团队",
+    "subtitle": "公司不大，角色有点疯，项目很实在。",
+    "tagline": "创始人的六种版本，加一只负责让大家脚踏实地的腊肠犬。",
+    "newcomer": "新成员",
+    "members": [
+      {
+        "role": "首席执行官兼创始人",
+        "bio": "Nicolas拥有化学博士学位，在法国求学后前往日本。他先从事科研，后来在人工智能与数据分析领域担任总监，工作涉及计算机视觉和医学影像。他创立Nihon Essentials Hub，设计、开发并推出自己的项目。私下里，他对章鱼和章鱼烧格外着迷，原因不明。相关研究仍在继续，通常安排在午餐时间。",
+        "alt": "身穿深色西装、白衬衫并系领带的Nicolas Loffredo",
+        "name": "Nicolas Loffredo",
+        "motto": "我讨厌开会。别为讨论这件事再约一场。"
+      },
+      {
+        "role": "全栈开发工程师",
+        "bio": "Niklas宁可花三个晚上，把一件三十秒就能做完的事自动化，也不愿亲手再做第二遍。从前端到服务器，最后总会接上他的某个Python脚本。他的早晨像《回到未来》的开场：自制程序和机器人自动煮好咖啡，再把它送上桌。唯一还得手动完成的，是提醒他别忘了喝。",
+        "alt": "网站开发负责人Niklas Stack，戴着蓬乱的黑色假发和夸张的大眼镜",
+        "name": "Niklas Stack",
+        "motto": "凡是要做第二遍的事，都把它自动化。"
+      },
+      {
+        "role": "Android应用负责人",
+        "bio": "Nico用Kotlin和Java开发Android应用，并在真手机上测试。两个版本之间，他会回到《圣剑传说2》（Secret of Mana）里拯救世界。复古游戏让他明白：好点子能比好几代游戏机活得更久。他的支线任务是吃橄榄。至今没有哪项统计数据，能替那个食用量找到合理解释。",
+        "alt": "Android应用负责人Nico Droid，穿着带填充衬垫、趣味十足的绿色Android风格服装",
+        "name": "Nico Droid",
+        "motto": "保存。测试。再来一颗橄榄。"
+      },
+      {
+        "role": "Apple应用负责人",
+        "bio": "Nicholas正在准备我们的首批iOS应用。他打磨界面、对齐细节，也坚信东西足够贵，主人就会显得高人一等。难怪他和Nico Droid的讨论总是格外热闹。要是进了《黑客帝国》，他大概会点名要钛金属版的红色药丸，再加钱配一个专用盒。我们盯预算，他盯细节。",
+        "alt": "Apple应用负责人Nicholas Swift，戴着时尚眼镜，身穿精致的Apple风格服装",
+        "name": "Nicholas Swift",
+        "motto": "贵，就是好。"
+      },
+      {
+        "role": "营销与电商负责人",
+        "bio": "Nicole负责店铺、营销活动，还有那些习惯三个一组冒出来的点子。她能把一页商品介绍变成火箭发射现场，转头又一脸认真地算起单次点击费用。她喜欢腊肠犬、浴袍和油。腊肠犬就是生活的意义；至于另外两样，还没有官方解释。她的扩音器最常播报的，是“我有一个小得不能再小的点子”。",
+        "alt": "拥有Nicolas Loffredo面容的角色Nicole Pitch，戴长金色假发和橙色眼镜，穿花衬衫，手持扩音器",
+        "name": "Nicole Pitch",
+        "motto": "腊肠犬就是生活的意义。"
+      },
+      {
+        "role": "产品设计与采购负责人",
+        "bio": "Nikola负责产品、供应商，还有那些别人没注意到的细节。她拒绝戴眼镜，认为放大镜已经够用，连找放大镜时也坚持这一点。于是，她像《终结者》一样扫描竹制品，不过有效距离只有二十厘米。尺寸、组装、表面处理，样样都逃不过检查。房间另一头的东西除外。",
+        "alt": "拥有Nicolas Loffredo面容的角色Nikola Calibre，戴棕色假发和日式头带，手持放大镜和竹制收纳架",
+        "name": "Nikola Calibre",
+        "motto": "眼镜？我已经有放大镜了。"
+      }
+    ],
+    "mottoLabel": "信条",
+    "honoraryLabel": "荣誉成员",
+    "honorary": {
+      "name": "Watson",
+      "role": "CEO的得力助手",
+      "bio": "Watson是CEO的得力助手，只是四条腿都短了一点。他不写程序、不谈判，也从不提议开会。他守在办公桌旁，定时提醒大家：散步可不能下载。他的权威来自一个很有分量的眼神，通常望向门口，或者零食盒。",
+      "motto": "少开会，多散步。",
+      "alt": "一只黑色与棕褐色相间的腊肠犬自然地坐在办公桌旁，未穿衣服或佩戴配饰"
+    }
+  },
+  "cookies": {
+    "label": "Cookie政策",
+    "title": "Cookie与您的选择",
+    "intro": "我们会记住您的 Cookie 选择。您可以分别允许保存语言偏好，以及使用 Google Analytics 衡量网站使用情况。",
+    "accept": "接受所有可选 Cookie",
+    "reject": "拒绝可选Cookie",
+    "manage": "管理偏好设置",
+    "save": "保存我的偏好",
+    "close": "关闭",
+    "optional": "记住我的语言",
+    "optionalDescription": "允许site_language将您明确选择的语言保存最长12个月。",
+    "essential": "必要的选择存储",
+    "essentialDescription": "cookie_consent 分别保存您的语言和分析选择，保留 180 天。其中不包含访客的唯一标识符。",
+    "policyLink": "阅读Cookie政策",
+    "sections": [
+      [
+        "什么是Cookie？",
+        "Cookie 是浏览器保存的小型文本数据。我们用它们记住您的选择，并在您同意后衡量网站使用情况。"
+      ],
+      [
+        "必要Cookie：cookie_consent",
+        "cookie_consent 分别保存您的语言和分析选择，保留 180 天。其中不包含访客的唯一标识符。"
+      ],
+      [
+        "可选Cookie：site_language",
+        "如果您允许保存语言，site_language 会记住您主动选择的语言，最长 365 天。"
+      ],
+      [
+        "Google Analytics",
+        "经您同意，Google Analytics 会衡量网站使用情况，例如网页浏览量。Google 会接收技术连接数据和浏览器数据。_ga 和 _ga_LHR5R3H8ZP 用于区分浏览器并保留会话状态，最长 180 天。Nihon Essentials Hub 的网页浏览统计配置会排除网址查询参数和片段，将来源网址限制为其源，并关闭网站代码中的广告功能。"
+      ],
+      [
+        "如果您拒绝或屏蔽Cookie",
+        "拒绝或屏蔽 Cookie 后，网站仍可使用。页面地址和标签页会话可以保留语言选择。屏蔽 Cookie 时，标签页也可以记住您的 Cookie 选择。自动选用语言依据浏览器设置。"
+      ],
+      [
+        "托管服务与外部网站",
+        "托管服务商会接收包括IP地址在内的技术连接信息，以提供和保护网页。您点击Amazon和Pix-Kit链接后，适用各自的政策。"
+      ],
+      [
+        "更改或删除您的选择",
+        "您可以随时通过页脚的“管理偏好设置”更改各项选择。关闭某一类别会删除网站中该类别的 Cookie。您也可以在浏览器中删除或屏蔽 Cookie。"
+      ],
+      [
+        "网站运营者与联系信息",
+        "本网站由位于日本福冈的Nihon Essentials Hub G.K.运营。如有隐私问题，请使用联系页面的邮件链接。本政策说明已实施的行为，并非对所有法律合规性的认证。"
+      ]
+    ],
+    "analytics": "Google Analytics",
+    "analyticsDescription": "允许 Google Analytics 衡量本网站的使用情况。",
+    "analyticsPrivacyLink": "Google 隐私权政策"
+  },
+  "corporateNumberLabel": "法人编号（日本）",
+  "corporateNumberLink": "在gBizINFO（日本经济产业省）核验",
+  "bamTrademark": "日本注册商标：6953015（文字商标）、6953016（方形标志）、6953017（图案）。",
+  "pixTrademark": "pix-kit是Nihon Essentials Hub G.K.的商标。标志已在日本注册：第7094172号（第9类、第41类）。文字商标的日本注册申请：2025-145412。"
+}

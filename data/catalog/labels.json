@@ -1,0 +1,610 @@
+{
+  "en": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Our latest products",
+      "description": "Designed, produced and distributed for everyday life."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Our latest applications",
+      "description": "Practical tools, developed and distributed by Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Our latest books",
+      "description": "Stories to explore and words to grow with."
+    },
+    "previous": "Previous",
+    "next": "Next",
+    "position": "{current} / {total}",
+    "discover": "Discover",
+    "bookLink": "Discover this edition",
+    "emptyBooks": "Books in this language will be added as their editions become available.",
+    "authorLink": "Explore the author’s books",
+    "englishEdition": "English edition",
+    "appLanguages": "Available in {count} languages",
+    "appLocalLanguage": "Also available in {language}",
+    "appLanguageList": "Available languages",
+    "appSingleLanguage": "Available in {language}",
+    "appEnglishLanguage": "English",
+    "pause": "Pause slideshow",
+    "play": "Resume slideshow"
+  },
+  "fr": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Nos derniers produits",
+      "description": "Conçus, produits et distribués pour le quotidien."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Nos dernières applications",
+      "description": "Des outils pratiques, développés et distribués par Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Nos derniers livres",
+      "description": "Des histoires à explorer et des mots pour grandir."
+    },
+    "previous": "Précédent",
+    "next": "Suivant",
+    "position": "{current} / {total}",
+    "discover": "Découvrir",
+    "bookLink": "Découvrir cette édition",
+    "emptyBooks": "Les livres dans cette langue seront ajoutés au fil des parutions.",
+    "authorLink": "Explorer les livres de l’auteur",
+    "englishEdition": "Édition anglaise",
+    "appLanguages": "Disponible en {count} langues",
+    "appLocalLanguage": "Également disponible en {language}",
+    "appLanguageList": "Langues disponibles",
+    "appSingleLanguage": "Disponible en {language}",
+    "appEnglishLanguage": "anglais",
+    "pause": "Mettre le défilement en pause",
+    "play": "Reprendre le défilement"
+  },
+  "ja": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "最新の製品",
+      "description": "日々の暮らしに寄り添う製品を、企画・製造・販売しています。"
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "最新のアプリ",
+      "description": "Pix-kitが開発・配信する、毎日に役立つツール。"
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "最新の書籍",
+      "description": "新しい世界に出会う物語と、成長に寄り添う言葉。"
+    },
+    "previous": "前へ",
+    "next": "次へ",
+    "position": "{current} / {total}",
+    "discover": "詳しく見る",
+    "bookLink": "この言語版を見る",
+    "emptyBooks": "この言語の書籍は、刊行に合わせて追加します。",
+    "authorLink": "著者の書籍を見る",
+    "englishEdition": "英語版",
+    "appLanguages": "{count}言語に対応",
+    "appLocalLanguage": "{language}にも対応",
+    "appLanguageList": "対応言語",
+    "appSingleLanguage": "{language}に対応",
+    "appEnglishLanguage": "英語",
+    "pause": "自動切り替えを一時停止",
+    "play": "自動切り替えを再開"
+  },
+  "de": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Unsere neuesten Produkte",
+      "description": "Für den Alltag entworfen, hergestellt und vertrieben."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Unsere neuesten Apps",
+      "description": "Praktische Werkzeuge, entwickelt und veröffentlicht von Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Unsere neuesten Bücher",
+      "description": "Geschichten zum Entdecken und Worte zum Wachsen."
+    },
+    "previous": "Zurück",
+    "next": "Weiter",
+    "position": "{current} / {total}",
+    "discover": "Entdecken",
+    "bookLink": "Diese Ausgabe entdecken",
+    "emptyBooks": "Bücher in dieser Sprache werden hinzugefügt, sobald die entsprechenden Ausgaben erscheinen.",
+    "authorLink": "Die Bücher des Autors entdecken",
+    "englishEdition": "Englische Ausgabe",
+    "appLanguages": "In {count} Sprachen verfügbar",
+    "appLocalLanguage": "Auch auf {language} verfügbar",
+    "appLanguageList": "Verfügbare Sprachen",
+    "appSingleLanguage": "Auf {language} verfügbar",
+    "appEnglishLanguage": "Englisch",
+    "pause": "Diashow anhalten",
+    "play": "Diashow fortsetzen"
+  },
+  "es": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Nuestros últimos productos",
+      "description": "Diseñados, fabricados y distribuidos para el día a día."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Nuestras últimas aplicaciones",
+      "description": "Herramientas prácticas, desarrolladas y distribuidas por Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Nuestros últimos libros",
+      "description": "Historias por descubrir y palabras para crecer."
+    },
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "position": "{current} / {total}",
+    "discover": "Descubrir",
+    "bookLink": "Descubrir esta edición",
+    "emptyBooks": "Los libros en este idioma se añadirán a medida que se publiquen sus ediciones.",
+    "authorLink": "Explorar los libros del autor",
+    "englishEdition": "Edición en inglés",
+    "appLanguages": "Disponible en {count} idiomas",
+    "appLocalLanguage": "También disponible en {language}",
+    "appLanguageList": "Idiomas disponibles",
+    "appSingleLanguage": "Disponible en {language}",
+    "appEnglishLanguage": "inglés",
+    "pause": "Pausar presentación",
+    "play": "Reanudar presentación"
+  },
+  "it": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "I nostri ultimi prodotti",
+      "description": "Progettati, realizzati e distribuiti per la vita quotidiana."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Le nostre ultime applicazioni",
+      "description": "Strumenti pratici, sviluppati e distribuiti da Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "I nostri ultimi libri",
+      "description": "Storie da esplorare e parole per crescere."
+    },
+    "previous": "Precedente",
+    "next": "Successivo",
+    "position": "{current} / {total}",
+    "discover": "Scopri",
+    "bookLink": "Scopri questa edizione",
+    "emptyBooks": "I libri in questa lingua saranno aggiunti man mano che usciranno le relative edizioni.",
+    "authorLink": "Esplora i libri dell’autore",
+    "englishEdition": "Edizione in inglese",
+    "appLanguages": "Disponibile in {count} lingue",
+    "appLocalLanguage": "Disponibile anche in {language}",
+    "appLanguageList": "Lingue disponibili",
+    "appSingleLanguage": "Disponibile in {language}",
+    "appEnglishLanguage": "inglese",
+    "pause": "Metti in pausa lo scorrimento",
+    "play": "Riprendi lo scorrimento"
+  },
+  "pt": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Os nossos produtos mais recentes",
+      "description": "Concebidos, produzidos e distribuídos para o dia a dia."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "As nossas aplicações mais recentes",
+      "description": "Ferramentas práticas, desenvolvidas e distribuídas pela Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Os nossos livros mais recentes",
+      "description": "Histórias para explorar e palavras para crescer."
+    },
+    "previous": "Anterior",
+    "next": "Seguinte",
+    "position": "{current} / {total}",
+    "discover": "Descobrir",
+    "bookLink": "Descobrir esta edição",
+    "emptyBooks": "Os livros nesta língua serão adicionados à medida que as respetivas edições forem publicadas.",
+    "authorLink": "Explorar os livros do autor",
+    "englishEdition": "Edição em inglês",
+    "appLanguages": "Disponível em {count} línguas",
+    "appLocalLanguage": "Também disponível em {language}",
+    "appLanguageList": "Línguas disponíveis",
+    "appSingleLanguage": "Disponível em {language}",
+    "appEnglishLanguage": "inglês",
+    "pause": "Pausar apresentação",
+    "play": "Retomar apresentação"
+  },
+  "pt-br": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Nossos produtos mais recentes",
+      "description": "Projetados, produzidos e distribuídos para o dia a dia."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Nossos aplicativos mais recentes",
+      "description": "Ferramentas práticas, desenvolvidas e distribuídas pela Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Nossos livros mais recentes",
+      "description": "Histórias para explorar e palavras para crescer."
+    },
+    "previous": "Anterior",
+    "next": "Próximo",
+    "position": "{current} / {total}",
+    "discover": "Conhecer",
+    "bookLink": "Conhecer esta edição",
+    "emptyBooks": "Os livros neste idioma serão adicionados conforme suas edições forem publicadas.",
+    "authorLink": "Explorar os livros do autor",
+    "englishEdition": "Edição em inglês",
+    "appLanguages": "Disponível em {count} idiomas",
+    "appLocalLanguage": "Também disponível em {language}",
+    "appLanguageList": "Idiomas disponíveis",
+    "appSingleLanguage": "Disponível em {language}",
+    "appEnglishLanguage": "inglês",
+    "pause": "Pausar apresentação",
+    "play": "Retomar apresentação"
+  },
+  "nl": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Onze nieuwste producten",
+      "description": "Ontworpen, geproduceerd en gedistribueerd voor het dagelijks leven."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Onze nieuwste apps",
+      "description": "Praktische tools, ontwikkeld en uitgebracht door Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Onze nieuwste boeken",
+      "description": "Verhalen om te ontdekken en woorden om mee te groeien."
+    },
+    "previous": "Vorige",
+    "next": "Volgende",
+    "position": "{current} / {total}",
+    "discover": "Ontdekken",
+    "bookLink": "Deze editie ontdekken",
+    "emptyBooks": "Boeken in deze taal worden toegevoegd zodra de betreffende edities verschijnen.",
+    "authorLink": "De boeken van de auteur ontdekken",
+    "englishEdition": "Engelse editie",
+    "appLanguages": "Beschikbaar in {count} talen",
+    "appLocalLanguage": "Ook beschikbaar in {language}",
+    "appLanguageList": "Beschikbare talen",
+    "appSingleLanguage": "Beschikbaar in het {language}",
+    "appEnglishLanguage": "Engels",
+    "pause": "Diavoorstelling pauzeren",
+    "play": "Diavoorstelling hervatten"
+  },
+  "pl": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Nasze najnowsze produkty",
+      "description": "Projektowane, produkowane i dystrybuowane z myślą o codzienności."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Nasze najnowsze aplikacje",
+      "description": "Praktyczne narzędzia tworzone i udostępniane przez Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Nasze najnowsze książki",
+      "description": "Historie do odkrywania i słowa, które pomagają dorastać."
+    },
+    "previous": "Poprzedni",
+    "next": "Następny",
+    "position": "{current} / {total}",
+    "discover": "Odkryj",
+    "bookLink": "Poznaj to wydanie",
+    "emptyBooks": "Książki w tym języku będą dodawane w miarę publikacji kolejnych wydań.",
+    "authorLink": "Poznaj książki autora",
+    "englishEdition": "Wydanie angielskie",
+    "appLanguages": "Dostępna w {count} językach",
+    "appLocalLanguage": "Dostępna również w języku: {language}",
+    "appLanguageList": "Dostępne języki",
+    "appSingleLanguage": "Język aplikacji: {language}",
+    "appEnglishLanguage": "angielski",
+    "pause": "Wstrzymaj pokaz",
+    "play": "Wznów pokaz"
+  },
+  "ru": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Наши новые товары",
+      "description": "Разрабатываем, производим и предлагаем товары для повседневной жизни."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Наши новые приложения",
+      "description": "Практичные инструменты, разработанные и выпущенные Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Наши новые книги",
+      "description": "Истории для открытий и слова, помогающие расти."
+    },
+    "previous": "Назад",
+    "next": "Далее",
+    "position": "{current} / {total}",
+    "discover": "Подробнее",
+    "bookLink": "Посмотреть это издание",
+    "emptyBooks": "Книги на этом языке будут добавляться по мере выхода соответствующих изданий.",
+    "authorLink": "Посмотреть книги автора",
+    "englishEdition": "Издание на английском",
+    "appLanguages": "Доступно на {count} языках",
+    "appLocalLanguage": "Также доступно на языке: {language}",
+    "appLanguageList": "Доступные языки",
+    "appSingleLanguage": "Язык приложения: {language}",
+    "appEnglishLanguage": "английский",
+    "pause": "Приостановить показ",
+    "play": "Возобновить показ"
+  },
+  "uk": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Наші нові товари",
+      "description": "Розробляємо, виробляємо та пропонуємо товари для повсякденного життя."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Наші нові застосунки",
+      "description": "Практичні інструменти, розроблені та випущені Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Наші нові книги",
+      "description": "Історії для відкриттів і слова, що допомагають зростати."
+    },
+    "previous": "Назад",
+    "next": "Далі",
+    "position": "{current} / {total}",
+    "discover": "Докладніше",
+    "bookLink": "Переглянути це видання",
+    "emptyBooks": "Книги цією мовою додаватимуться в міру виходу відповідних видань.",
+    "authorLink": "Переглянути книги автора",
+    "englishEdition": "Видання англійською",
+    "appLanguages": "Доступно {count} мовами",
+    "appLocalLanguage": "Також доступно мовою: {language}",
+    "appLanguageList": "Доступні мови",
+    "appSingleLanguage": "Мова застосунку: {language}",
+    "appEnglishLanguage": "англійська",
+    "pause": "Призупинити показ",
+    "play": "Відновити показ"
+  },
+  "zh-cn": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "我们的最新产品",
+      "description": "为日常生活设计、生产并销售的实用好物。"
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "我们的最新应用",
+      "description": "由 Pix-kit 开发和发布的实用工具。"
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "我们的最新图书",
+      "description": "探索故事世界，与温暖的文字一起成长。"
+    },
+    "previous": "上一项",
+    "next": "下一项",
+    "position": "{current} / {total}",
+    "discover": "了解更多",
+    "bookLink": "查看此语言版本",
+    "emptyBooks": "此语言的图书将在相应版本出版后添加。",
+    "authorLink": "浏览作者的图书",
+    "englishEdition": "英文版",
+    "appLanguages": "支持 {count} 种语言",
+    "appLocalLanguage": "也支持{language}",
+    "appLanguageList": "支持的语言",
+    "appSingleLanguage": "支持{language}",
+    "appEnglishLanguage": "英语",
+    "pause": "暂停自动轮播",
+    "play": "恢复自动轮播"
+  },
+  "zh-tw": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "我們的最新產品",
+      "description": "為日常生活設計、生產並銷售的實用好物。"
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "我們的最新應用程式",
+      "description": "由 Pix-kit 開發與發行的實用工具。"
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "我們的最新書籍",
+      "description": "探索故事世界，與溫暖的文字一起成長。"
+    },
+    "previous": "上一項",
+    "next": "下一項",
+    "position": "{current} / {total}",
+    "discover": "了解更多",
+    "bookLink": "查看此語言版本",
+    "emptyBooks": "此語言的書籍將在相應版本出版後加入。",
+    "authorLink": "瀏覽作者的書籍",
+    "englishEdition": "英文版",
+    "appLanguages": "支援 {count} 種語言",
+    "appLocalLanguage": "也支援{language}",
+    "appLanguageList": "支援的語言",
+    "appSingleLanguage": "支援{language}",
+    "appEnglishLanguage": "英語",
+    "pause": "暫停自動輪播",
+    "play": "繼續自動輪播"
+  },
+  "ko": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "최신 제품",
+      "description": "일상을 위해 기획하고 생산하며 유통하는 제품입니다."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "최신 앱",
+      "description": "Pix-kit이 개발하고 배포하는 실용적인 도구입니다."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "최신 도서",
+      "description": "새로운 세계를 만나는 이야기와 성장에 함께하는 글."
+    },
+    "previous": "이전",
+    "next": "다음",
+    "position": "{current} / {total}",
+    "discover": "자세히 보기",
+    "bookLink": "이 언어판 보기",
+    "emptyBooks": "이 언어의 도서는 해당 언어판이 출간되면 추가됩니다.",
+    "authorLink": "작가의 도서 보기",
+    "englishEdition": "영어판",
+    "appLanguages": "{count}개 언어 지원",
+    "appLocalLanguage": "{language}도 지원",
+    "appLanguageList": "지원 언어",
+    "appSingleLanguage": "{language} 지원",
+    "appEnglishLanguage": "영어",
+    "pause": "자동 넘김 일시 정지",
+    "play": "자동 넘김 재개"
+  },
+  "ar": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "أحدث منتجاتنا",
+      "description": "منتجات نصممها وننتجها ونوزعها للحياة اليومية."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "أحدث تطبيقاتنا",
+      "description": "أدوات عملية تطورها وتنشرها Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "أحدث كتبنا",
+      "description": "قصص للاستكشاف وكلمات ترافق النمو."
+    },
+    "previous": "السابق",
+    "next": "التالي",
+    "position": "{current} / {total}",
+    "discover": "اكتشف المزيد",
+    "bookLink": "اكتشف هذه الطبعة",
+    "emptyBooks": "ستُضاف الكتب بهذه اللغة عند صدور طبعاتها.",
+    "authorLink": "استكشف كتب المؤلف",
+    "englishEdition": "النسخة الإنجليزية",
+    "appLanguages": "متاح بـ {count} لغة",
+    "appLocalLanguage": "متاح أيضًا باللغة {language}",
+    "appLanguageList": "اللغات المتاحة",
+    "appSingleLanguage": "متاح باللغة {language}",
+    "appEnglishLanguage": "الإنجليزية",
+    "pause": "إيقاف العرض مؤقتًا",
+    "play": "استئناف العرض"
+  },
+  "hi": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "हमारे नए उत्पाद",
+      "description": "रोज़मर्रा की ज़िंदगी के लिए डिज़ाइन, निर्माण और वितरण।"
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "हमारे नए ऐप",
+      "description": "Pix-kit द्वारा विकसित और प्रकाशित उपयोगी टूल।"
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "हमारी नई किताबें",
+      "description": "नई दुनिया से मिलाती कहानियाँ और आगे बढ़ने का हौसला देते शब्द।"
+    },
+    "previous": "पिछला",
+    "next": "अगला",
+    "position": "{current} / {total}",
+    "discover": "और जानें",
+    "bookLink": "यह संस्करण देखें",
+    "emptyBooks": "इस भाषा की किताबें उनके संस्करण प्रकाशित होने पर जोड़ी जाएँगी।",
+    "authorLink": "लेखक की किताबें देखें",
+    "englishEdition": "अंग्रेज़ी संस्करण",
+    "appLanguages": "{count} भाषाओं में उपलब्ध",
+    "appLocalLanguage": "{language} में भी उपलब्ध",
+    "appLanguageList": "उपलब्ध भाषाएँ",
+    "appSingleLanguage": "{language} में उपलब्ध",
+    "appEnglishLanguage": "अंग्रेज़ी",
+    "pause": "स्लाइड शो रोकें",
+    "play": "स्लाइड शो फिर चलाएँ"
+  },
+  "id": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "Produk terbaru kami",
+      "description": "Dirancang, diproduksi, dan didistribusikan untuk keseharian."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "Aplikasi terbaru kami",
+      "description": "Alat praktis yang dikembangkan dan didistribusikan oleh Pix-kit."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "Buku terbaru kami",
+      "description": "Kisah untuk dijelajahi dan kata-kata untuk tumbuh bersama."
+    },
+    "previous": "Sebelumnya",
+    "next": "Berikutnya",
+    "position": "{current} / {total}",
+    "discover": "Lihat selengkapnya",
+    "bookLink": "Lihat edisi ini",
+    "emptyBooks": "Buku dalam bahasa ini akan ditambahkan saat edisinya diterbitkan.",
+    "authorLink": "Jelajahi buku sang penulis",
+    "englishEdition": "Edisi bahasa Inggris",
+    "appLanguages": "Tersedia dalam {count} bahasa",
+    "appLocalLanguage": "Juga tersedia dalam {language}",
+    "appLanguageList": "Bahasa yang tersedia",
+    "appSingleLanguage": "Tersedia dalam bahasa {language}",
+    "appEnglishLanguage": "Inggris",
+    "pause": "Jeda tayangan",
+    "play": "Lanjutkan tayangan"
+  },
+  "tr": {
+    "products": {
+      "eyebrow": "BAMBOOM",
+      "title": "En yeni ürünlerimiz",
+      "description": "Günlük yaşam için tasarlıyor, üretiyor ve dağıtıyoruz."
+    },
+    "applications": {
+      "eyebrow": "Pix-kit",
+      "title": "En yeni uygulamalarımız",
+      "description": "Pix-kit tarafından geliştirilen ve yayımlanan pratik araçlar."
+    },
+    "books": {
+      "eyebrow": "Nicolas Loffredo",
+      "title": "En yeni kitaplarımız",
+      "description": "Keşfedilecek hikâyeler ve büyürken yol gösteren sözler."
+    },
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "position": "{current} / {total}",
+    "discover": "Keşfet",
+    "bookLink": "Bu baskıyı keşfet",
+    "emptyBooks": "Bu dildeki kitaplar, ilgili baskıları yayımlandıkça eklenecektir.",
+    "authorLink": "Yazarın kitaplarını keşfet",
+    "englishEdition": "İngilizce baskı",
+    "appLanguages": "{count} dilde kullanılabilir",
+    "appLocalLanguage": "{language} dilinde de kullanılabilir",
+    "appLanguageList": "Kullanılabilir diller",
+    "appSingleLanguage": "{language} dilinde kullanılabilir",
+    "appEnglishLanguage": "İngilizce",
+    "pause": "Slayt gösterisini duraklat",
+    "play": "Slayt gösterisini sürdür"
+  }
+}

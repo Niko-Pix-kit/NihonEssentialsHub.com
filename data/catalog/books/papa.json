@@ -1,0 +1,63 @@
+{
+  "id": "papa",
+  "order": 10,
+  "author": "Nicolas Loffredo",
+  "editions": {
+    "fr": {
+      "title": "Les petites choses que Papa voudrait te dire",
+      "description": "Un livre illustré pour accompagner les enfants dans les défis du quotidien : comprendre leurs émotions, prendre confiance en eux et trouver leur place parmi les autres.",
+      "url": "https://www.amazon.fr/dp/B0GZL2WYCF",
+      "image": "assets/catalog/books/papa-fr.webp",
+      "linkKind": "product"
+    },
+    "en": {
+      "title": "The Little Things Dad Would Like to Tell You",
+      "description": "An illustrated companion for growing up, with a father's practical advice on emotions, confidence, friendships and the little challenges of everyday life.",
+      "url": "https://www.amazon.com/dp/B0GZPZX46X",
+      "image": "assets/catalog/books/papa-en.webp",
+      "linkKind": "product"
+    },
+    "de": {
+      "title": "Die kleinen Dinge, die Papa dir sagen möchte",
+      "description": "Ein illustriertes Buch für die kleinen Herausforderungen des Alltags: Gefühle verstehen, Selbstvertrauen gewinnen und Freundschaften mit mehr Gelassenheit erleben.",
+      "url": "https://www.amazon.de/dp/B0GZQRT469",
+      "image": "assets/catalog/books/papa-de.webp",
+      "linkKind": "product"
+    },
+    "it": {
+      "title": "Le piccole cose che Papà vorrebbe dirti",
+      "description": "Un libro illustrato per accompagnare i bambini nelle sfide quotidiane: capire le emozioni, trovare fiducia in sé e vivere le amicizie con serenità.",
+      "url": "https://www.amazon.it/dp/B0GZQHW2BK",
+      "image": "assets/catalog/books/papa-it.webp",
+      "linkKind": "product"
+    },
+    "es": {
+      "title": "Las pequeñas cosas que Papá querría decirte",
+      "description": "Un libro ilustrado para acompañar a los niños en los retos cotidianos: comprender sus emociones, ganar confianza y encontrar su lugar entre los demás.",
+      "url": "https://www.amazon.es/dp/B0GZSBHGJ1",
+      "image": "assets/catalog/books/papa-es.webp",
+      "linkKind": "product"
+    },
+    "pt": {
+      "title": "As pequenas coisas que o Papá gostava de te dizer",
+      "description": "Um livro ilustrado para acompanhar as crianças nos desafios do dia a dia: compreender as emoções, ganhar confiança e lidar com as amizades.",
+      "url": "https://www.amazon.es/dp/B0GZSDJD5H",
+      "image": "assets/catalog/books/papa-pt.webp",
+      "linkKind": "product"
+    },
+    "nl": {
+      "title": "De kleine dingen die Papa je zou willen zeggen",
+      "description": "Een geïllustreerd boek voor de kleine uitdagingen van elke dag: gevoelens begrijpen, zelfvertrouwen opbouwen en je weg vinden in vriendschappen.",
+      "url": "https://www.amazon.nl/dp/B0GZQQ7YG1",
+      "image": "assets/catalog/books/papa-nl.webp",
+      "linkKind": "product"
+    },
+    "pt-br": {
+      "title": "As pequenas coisas que o Papá gostava de te dizer",
+      "description": "Um livro ilustrado para acompanhar as crianças nos desafios do dia a dia: entender as emoções, ganhar confiança e lidar com as amizades.",
+      "url": "https://www.amazon.es/dp/B0GZSDJD5H",
+      "image": "assets/catalog/books/papa-pt.webp",
+      "linkKind": "product"
+    }
+  }
+}

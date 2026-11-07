@@ -1,0 +1,85 @@
+{
+  "id": "bamboom-of-03",
+  "order": 20,
+  "brand": "BAMBOOM",
+  "image": "assets/catalog/products/of-03.webp",
+  "url": "https://www.amazon.co.jp/dp/B0GC9LXRTR",
+  "locales": {
+    "en": {
+      "title": "OF-03 · Ten-drawer desktop chest",
+      "description": "Ten individual drawers in two columns bring order to stationery and small accessories, with the warm finish of bamboo."
+    },
+    "fr": {
+      "title": "OF-03 · Mini-commode à dix tiroirs",
+      "description": "Dix tiroirs individuels répartis en deux colonnes pour ranger papeterie et petits accessoires dans une mini-commode en bambou."
+    },
+    "ja": {
+      "title": "OF-03 · 10個の引き出し付きミニチェスト",
+      "description": "2列に並ぶ10個の引き出しで、文房具や小物を整理。竹の温かみを楽しめる卓上ミニチェストです。"
+    },
+    "de": {
+      "title": "OF-03 · Tischkommode mit zehn Schubladen",
+      "description": "Zehn einzelne Schubladen in zwei Spalten schaffen Ordnung für Schreibwaren und kleine Accessoires in einer Tischkommode aus Bambus."
+    },
+    "es": {
+      "title": "OF-03 · Cajonera de sobremesa de diez cajones",
+      "description": "Diez cajones individuales en dos columnas para ordenar artículos de papelería y pequeños accesorios en una cajonera de bambú."
+    },
+    "it": {
+      "title": "OF-03 · Cassettiera da tavolo con dieci cassetti",
+      "description": "Dieci cassetti singoli disposti in due colonne per organizzare cancelleria e piccoli accessori in una cassettiera in bambù."
+    },
+    "pt": {
+      "title": "OF-03 · Mini-cómoda com dez gavetas",
+      "description": "Dez gavetas individuais em duas colunas para organizar artigos de papelaria e pequenos acessórios numa mini-cómoda de bambu."
+    },
+    "pt-br": {
+      "title": "OF-03 · Gaveteiro de mesa com dez gavetas",
+      "description": "Dez gavetas individuais em duas colunas para organizar artigos de papelaria e pequenos acessórios em um gaveteiro de bambu."
+    },
+    "nl": {
+      "title": "OF-03 · Bureauladenkastje met tien laden",
+      "description": "Tien afzonderlijke laden in twee kolommen houden schrijfwaren en kleine accessoires netjes opgeborgen in een bamboe ladenkastje."
+    },
+    "pl": {
+      "title": "OF-03 · Biurkowa komódka z dziesięcioma szufladami",
+      "description": "Dziesięć osobnych szuflad w dwóch kolumnach porządkuje artykuły papiernicze i drobne akcesoria w bambusowej komódce."
+    },
+    "ru": {
+      "title": "OF-03 · Настольный комод с десятью ящиками",
+      "description": "Десять отдельных ящиков в двух колонках помогают упорядочить канцелярию и небольшие аксессуары в бамбуковом комоде."
+    },
+    "uk": {
+      "title": "OF-03 · Настільний комод із десятьма шухлядами",
+      "description": "Десять окремих шухляд у двох колонках допомагають упорядкувати канцелярію та невеликі аксесуари в бамбуковому комоді."
+    },
+    "zh-cn": {
+      "title": "OF-03 · 十抽屉桌面收纳柜",
+      "description": "十个独立抽屉分为两列，方便整理文具和小配件，展现竹材的温润质感。"
+    },
+    "zh-tw": {
+      "title": "OF-03 · 十抽屜桌面收納櫃",
+      "description": "十個獨立抽屜分為兩列，方便整理文具和小配件，展現竹材的溫潤質感。"
+    },
+    "ko": {
+      "title": "OF-03 · 10칸 서랍 미니 수납장",
+      "description": "두 열로 배치된 10개의 개별 서랍에 문구류와 작은 액세서리를 정리할 수 있는 대나무 탁상 수납장입니다."
+    },
+    "ar": {
+      "title": "OF-03 · وحدة مكتبية بعشرة أدراج",
+      "description": "عشرة أدراج منفصلة موزعة على عمودين لترتيب القرطاسية والإكسسوارات الصغيرة في وحدة مكتبية من الخيزران."
+    },
+    "hi": {
+      "title": "OF-03 · दस दराज़ों वाली डेस्क कैबिनेट",
+      "description": "दो स्तंभों में दस अलग-अलग दराज़ों वाली बाँस की डेस्क कैबिनेट स्टेशनरी और छोटे सामान को व्यवस्थित रखती है।"
+    },
+    "id": {
+      "title": "OF-03 · Lemari meja dengan sepuluh laci",
+      "description": "Sepuluh laci terpisah dalam dua kolom membantu menata alat tulis dan aksesori kecil dalam lemari meja berbahan bambu."
+    },
+    "tr": {
+      "title": "OF-03 · On çekmeceli masaüstü dolabı",
+      "description": "İki sütunda yer alan on ayrı çekmece, bambu masaüstü dolabında kırtasiye malzemelerini ve küçük aksesuarları düzenler."
+    }
+  }
+}

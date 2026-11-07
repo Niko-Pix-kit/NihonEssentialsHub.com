@@ -1,0 +1,108 @@
+{
+  "id": "pix-graph",
+  "order": 20,
+  "brand": "Pix-kit",
+  "image": "assets/catalog/applications/pix-graph.webp",
+  "url": "https://pix-kit.com/apps/pix-graph/",
+  "locales": {
+    "fr": {
+      "title": "PixGraph",
+      "description": "Extrayez les données de graphiques sur Android avec PixGraph. Calibrez les axes, ajustez plus de 130 modèles de régression et exportez en CSV.",
+      "url": "https://pix-kit.com/fr/apps/pix-graph/"
+    },
+    "ja": {
+      "title": "PixGraph",
+      "description": "PixGraphでグラフ画像を数値化。軸を校正し、130種類以上の回帰モデルを比較してCSVに出力できるAndroidアプリです。",
+      "url": "https://pix-kit.com/ja/apps/pix-graph/"
+    },
+    "zh-tw": {
+      "title": "PixGraph",
+      "description": "使用 Android 版 PixGraph 擷取圖表資料。從圖片取得資料、校準座標軸、擬合 130 多種迴歸模型，並匯出 CSV 檔案。",
+      "url": "https://pix-kit.com/zh-tw/apps/pix-graph/"
+    },
+    "nl": {
+      "title": "PixGraph",
+      "description": "Digitaliseer grafieken met PixGraph voor Android. Haal gegevens uit afbeeldingen, kalibreer assen, pas meer dan 130 regressiemodellen toe en exporteer CSV-bestanden.",
+      "url": "https://pix-kit.com/nl/apps/pix-graph/"
+    },
+    "pt-br": {
+      "title": "PixGraph",
+      "description": "Digitalize gráficos no Android com o PixGraph. Extraia dados de imagens, calibre eixos, ajuste mais de 130 modelos de regressão e exporte arquivos CSV.",
+      "url": "https://pix-kit.com/pt-br/apps/pix-graph/"
+    },
+    "zh-cn": {
+      "title": "PixGraph",
+      "description": "使用 Android 版 PixGraph 提取图表数据。从图片中获取数据、校准坐标轴、拟合 130 多种回归模型，并导出 CSV 文件。",
+      "url": "https://pix-kit.com/zh-cn/apps/pix-graph/"
+    },
+    "pt": {
+      "title": "PixGraph",
+      "description": "Digitalize gráficos no Android com o PixGraph. Extraia dados de imagens, calibre eixos, ajuste mais de 130 modelos de regressão e exporte ficheiros CSV.",
+      "url": "https://pix-kit.com/pt/apps/pix-graph/"
+    },
+    "es": {
+      "title": "PixGraph",
+      "description": "Digitaliza gráficos en Android con PixGraph. Extrae datos de imágenes, calibra ejes, ajusta más de 130 modelos y exporta archivos CSV.",
+      "url": "https://pix-kit.com/es/apps/pix-graph/"
+    },
+    "de": {
+      "title": "PixGraph",
+      "description": "Digitalisiere Diagramme mit PixGraph für Android. Extrahiere Daten aus Bildern, kalibriere Achsen, passe über 130 Regressionsmodelle an und exportiere CSV-Dateien.",
+      "url": "https://pix-kit.com/de/apps/pix-graph/"
+    },
+    "tr": {
+      "title": "PixGraph",
+      "description": "Android'de PixGraph ile grafikleri veriye dönüştürün. Görsellerden veri çıkarın, eksenleri kalibre edin, 130'dan fazla regresyon modeli uydurun ve CSV dosyaları dışa aktarın.",
+      "url": "https://pix-kit.com/tr/apps/pix-graph/"
+    },
+    "id": {
+      "title": "PixGraph",
+      "description": "Ekstrak data grafik di Android dengan PixGraph. Ambil data dari gambar, kalibrasi sumbu, cocokkan lebih dari 130 model regresi, dan ekspor berkas CSV.",
+      "url": "https://pix-kit.com/id/apps/pix-graph/"
+    },
+    "pl": {
+      "title": "PixGraph",
+      "description": "Odczytuj dane z wykresów z PixGraph na Androidzie. Wyodrębniaj dane z obrazów, kalibruj osie, dopasowuj ponad 130 modeli regresji i eksportuj pliki CSV.",
+      "url": "https://pix-kit.com/pl/apps/pix-graph/"
+    },
+    "en": {
+      "title": "PixGraph",
+      "description": "Digitize charts on Android with PixGraph. Extract data from images, calibrate axes, fit 130+ regression models and export CSV files.",
+      "url": "https://pix-kit.com/apps/pix-graph/"
+    },
+    "ko": {
+      "title": "PixGraph",
+      "description": "Android용 PixGraph로 차트를 데이터로 바꾸세요. 이미지에서 데이터를 추출하고, 축을 보정하고, 130개 이상의 회귀 모델을 피팅하고, CSV 파일로 내보내세요.",
+      "url": "https://pix-kit.com/ko/apps/pix-graph/"
+    },
+    "it": {
+      "title": "PixGraph",
+      "description": "Digitalizza grafici su Android con PixGraph. Estrai dati dalle immagini, calibra gli assi, adatta oltre 130 modelli di regressione ed esporta file CSV.",
+      "url": "https://pix-kit.com/it/apps/pix-graph/"
+    },
+    "hi": {
+      "title": "PixGraph",
+      "description": "Android पर PixGraph से चार्ट का डेटा निकालें। तस्वीरों से डेटा पाएँ, अक्ष कैलिब्रेट करें, 130 से अधिक रिग्रेशन मॉडल फ़िट करें और CSV फ़ाइलें एक्सपोर्ट करें।",
+      "url": "https://pix-kit.com/hi/apps/pix-graph/"
+    },
+    "ar": {
+      "title": "PixGraph",
+      "description": "استخرج بيانات الرسوم البيانية على Android باستخدام PixGraph. حوّل الصور إلى بيانات، وعاير المحاور، وطبّق أكثر من 130 نموذج انحدار، وصدّر ملفات CSV.",
+      "url": "https://pix-kit.com/ar/apps/pix-graph/"
+    },
+    "ru": {
+      "title": "PixGraph",
+      "description": "Оцифровывайте графики на Android с PixGraph. Извлекайте данные из изображений, калибруйте оси, подбирайте более 130 моделей регрессии и экспортируйте CSV.",
+      "url": "https://pix-kit.com/ru/apps/pix-graph/"
+    },
+    "uk": {
+      "title": "PixGraph",
+      "description": "Оцифровуйте графіки на Android із PixGraph. Видобувайте дані із зображень, калібруйте осі, підбирайте понад 130 моделей регресії й експортуйте CSV.",
+      "url": "https://pix-kit.com/uk/apps/pix-graph/"
+    }
+  },
+  "availableLanguages": [
+    "en"
+  ],
+  "publishedAt": "2026-06-26"
+}

@@ -1,0 +1,14 @@
+.openai/
+__pycache__/
+.DS_Store
+dist/
+
+# Local-only files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json

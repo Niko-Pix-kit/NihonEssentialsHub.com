@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nihonessentialshub.com/sitemap.xml

@@ -1,0 +1,246 @@
+{
+  "title": "Tasarla. Geliştir. Dağıt.",
+  "description": "Nihon Essentials Hub; ürün tasarımı ve ticaret, yazılım geliştirme ve bağımsız yayıncılık alanlarında çalışan Japonya merkezli bir şirkettir.",
+  "skip": "İçeriğe geç",
+  "menu": "Menü",
+  "nav": [
+    "Misyonumuz",
+    "Markalarımız",
+    "Hakkımızda",
+    "İletişim"
+  ],
+  "languageLabel": "Dil",
+  "autoLabel": "Otomatik",
+  "languageMode": "Otomatik",
+  "heroEyebrow": "Nihon Essentials Hub · Japonya",
+  "principles": [
+    "Tasarla.",
+    "Geliştir.",
+    "Dağıt."
+  ],
+  "heroText": "Kullanışlı fikirleri doğru insanlara ulaştırmak için ürün tasarımını, dijital geliştirmeyi ve dağıtımı bir araya getiriyoruz.",
+  "heroAction": "Misyonumuzu keşfedin",
+  "heroNote": "Bağımsız düşünce. Pratik sonuçlar.",
+  "missionLabel": "Misyonumuz",
+  "missionTitle": "Üç faaliyet. Tek ve net bir amaç.",
+  "missionText": "Kullanışlı şeyler üretmek ve kendi kitlesine ulaşmasına yardımcı olmak.",
+  "caps": [
+    [
+      "Nesneler ve ticaret",
+      "Fiziksel ürünler tasarlıyor, üretimi koordine ediyor, e-ticaret üzerinden sunum ve satışlarını yönetiyoruz."
+    ],
+    [
+      "Yazılım ve dijital araçlar",
+      "Pratik uygulamalar geliştiriyor, bağımsız yazılımları dağıtım ve tanıtımla destekliyoruz."
+    ],
+    [
+      "Kitaplar ve bağımsız üretim",
+      "Bağımsız kitapların ve yaratıcı eserlerin yayımlanmasını, dağıtımını ve pazarlamasını destekliyoruz."
+    ]
+  ],
+  "authorLink": "Nicolas Loffredo — Yazar hakkında",
+  "brandsLabel": "Markalarımız",
+  "brandsTitle": "İki marka. Farklı alanlar.",
+  "brandsText": "Her marka çalışmalarımıza kendine özgü bir odak kazandırır.",
+  "bamText": "Ev ve çalışma alanı için bambu ürünler. Özenli tasarım, pratik düzen ve doğal bir malzemenin sıcaklığı.",
+  "bamLink": "Amazon mağazasını ziyaret edin",
+  "pixText": "Üretmek, öğrenmek ve keşfetmek için pratik yazılımlar ve dijital araçlar. Build. Learn. Play.",
+  "pixLink": "pix-kit.com’u ziyaret edin",
+  "aboutLabel": "Hakkımızda",
+  "aboutTitle": "Kullanışlı fikirler etrafında kurulan bir şirket.",
+  "aboutLead": "Nihon Essentials Hub G.K., Japonya’nın Fukuoka kentinde bulunan ve 2023’ten bu yana faaliyet gösteren bağımsız bir şirkettir.",
+  "aboutBody": "Fiziksel ürünler, yazılım ve bağımsız yayıncılık alanlarında çalışıyoruz. Tasarım ve geliştirmeyi, bir ürünü veya yaratıcı eseri pazara sunmanın gerektirdiği pratik çalışmalarla birleştiriyoruz.",
+  "approachTitle": "Nasıl çalışıyoruz?",
+  "approach": [
+    [
+      "Gerçek bir ihtiyaçtan başlarız",
+      "Net amaçlara ve pratik kullanımlara odaklanırız."
+    ],
+    [
+      "Üretimi dağıtımla birleştiririz",
+      "Bir ürünün veya eserin nasıl sunulacağını, ulaştırılacağını ve keşfedileceğini en baştan düşünürüz."
+    ],
+    [
+      "Bağımsız eser sahipliğine saygı duyarız",
+      "Yazarlar ve geliştiriciler eserlerinin haklarını korur. Dağıtım ve pazarlamadaki rolümüz, her üreticiyle yapılan anlaşmayla belirlenir."
+    ]
+  ],
+  "facts": [
+    [
+      "Şirket",
+      "Nihon Essentials Hub G.K."
+    ],
+    [
+      "Merkez",
+      "Fukuoka, Japonya"
+    ],
+    [
+      "Faaliyet başlangıcı",
+      "2023"
+    ]
+  ],
+  "contactLabel": "İletişim",
+  "contactTitle": "Bize ulaşın.",
+  "contactText": "Ticari sorular, dağıtım fırsatları veya bağımsız projeler için e-posta yoluyla bize ulaşın.",
+  "emailAction": "Bize e-posta gönderin",
+  "privacy": "Gizlilik ve site bilgileri",
+  "privacyTitle": "Gizlilik ve site bilgileri",
+  "privacyContent": [
+    [
+      "Site işletmecisi",
+      "Bu site, Nihon Essentials Hub G.K. (Nihon Essentials Hub 合同会社), Fukuoka, Japonya tarafından işletilir."
+    ],
+    [
+      "Sitede gezinme",
+      "Bu bir bilgilendirme sitesidir. Reklam çerezleri, iletişim formları veya gömülü üçüncü taraf medyası kullanmıyoruz. Barındırma sağlayıcısı, siteyi sunmak ve korumak için teknik bağlantı verilerini işleyebilir."
+    ],
+    [
+      "Google Analytics",
+      "Onayınızla Google Analytics, sayfa görüntülemeleri gibi site kullanımını ölçer. Google teknik bağlantı ve tarayıcı verilerini alır. _ga ve _ga_LHR5R3H8ZP çerezleri tarayıcıları ayırt eder ve oturum durumunu 180 güne kadar saklar. Nihon Essentials Hub sayfa görüntülemelerini URL sorgu parametreleri ve parçaları olmadan yapılandırır, yönlendiren URL’yi kökeniyle sınırlar ve site etiketinde reklam özelliklerini kapatır."
+    ],
+    [
+      "E-posta ile iletişim",
+      "E-posta bağlantıları kendi e-posta uygulamanızı açar. Bize yazarsanız, sağladığınız bilgileri yanıt vermek ve talebinizi yönetmek için kullanırız."
+    ],
+    [
+      "Harici siteler",
+      "Amazon ve pix-kit bağlantıları ayrı sitelere yönlendirir. Bu sitelerin işletmecileri kendi gizlilik politikalarını ve kullanım koşullarını uygular."
+    ],
+    [
+      "Markalar ve yaratıcı eserler",
+      "BAMBOOM ve pix-kit, Nihon Essentials Hub markalarıdır. Aksi kararlaştırılmadıkça, bağımsız eserlerin hakları ilgili yazarlarda ve geliştiricilerde kalır. Başka şirketlerin marka ve ürün adları kendi hak sahiplerine aittir."
+    ],
+    [
+      "Dil ve çerez seçimleri",
+      "Otomatik dil seçimi, bir coğrafi konum hizmetine başvurmadan tarayıcınızın dilini kullanır. Yerelleştirilmiş URL’ler ve sekme oturumu tercihi, açık seçiminizi gezinme sırasında korur. Kalıcı dil çerezi yalnızca tercihleri kabul ederseniz ayarlanır. Gerekli bir çerez kabul veya ret kararını 6 ay boyunca hatırlar. Seçimlerinizi altbilgideki Tercihleri yönet üzerinden değiştirebilirsiniz."
+    ]
+  ],
+  "back": "Ana sayfaya dön",
+  "notFound": "Bu sayfa bulunamadı.",
+  "seoTitle": "Ürün tasarımı, yazılım ve bağımsız yayıncılık",
+  "navHome": "Ana sayfa",
+  "navAuthors": "Yazarlarımız",
+  "navTeam": "Ekibimiz",
+  "authors": {
+    "label": "Yazarlarımız",
+    "title": "Bağımsız sesler.",
+    "bio": "Japonya’da yaşayan bağımsız yazar Nicolas Loffredo, yazılarına bir araştırmacının merakını taşır. Kitaplarını ve yayınlarını Amazon yazar sayfasında keşfedin.",
+    "link": "Yazarı Amazon’da keşfedin",
+    "alt": "Yazar Nicolas Loffredo’nun portresi"
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "subtitle": "Küçük bir şirket. Biraz çılgın kişilikler. Gayet somut projeler.",
+    "tagline": "Kurucunun altı farklı hâli. Bir de ayaklarımızı yere bastıran bir dachshund.",
+    "newcomer": "Yeni üye",
+    "members": [
+      {
+        "role": "CEO ve Kurucu",
+        "bio": "Kimya doktorası sahibi Nicolas, Japonya’ya gitmeden önce Fransa’da öğrenim gördü. Araştırmacı, ardından yapay zekâ ve veri analizi alanında direktör olarak çalıştı; bilgisayarlı görü ve tıbbi görüntüleme üzerine projelerde yer aldı. Kendi projelerini tasarlamak, geliştirmek ve hayata geçirmek için Nihon Essentials Hub’ı kurdu. Özel hayatında ahtapotlara ve takoyakiye tutkuyla bağlı. Nedeni hâlâ bilinmiyor. Araştırmalar sürüyor, genellikle öğle yemeğinde.",
+        "alt": "Koyu renk takım elbise, beyaz gömlek ve kravat giymiş Nicolas Loffredo",
+        "name": "Nicolas Loffredo",
+        "motto": "Toplantılardan nefret ederim. Bunu konuşmak için toplantı ayarlamayın."
+      },
+      {
+        "role": "Full Stack Geliştirici",
+        "bio": "Niklas, otuz saniyelik bir işi iki kez yapmaktansa onu otomatikleştirmek için üç akşam harcamayı tercih eder. Ön uçtan sunuculara kadar her şey sonunda Python betiklerinden birine bağlanır. Sabahları Geleceğe Dönüş’ün açılış sahnesini andırır: kendi yaptığı programlar ve robotlar kahveyi otomatik hazırlar, servis eder. Hâlâ elle yapılan tek iş, ona kahveyi içmesi gerektiğini hatırlatmaktır.",
+        "alt": "Niklas Stack, dağınık siyah peruğu ve büyük gözlükleriyle web geliştiricisi",
+        "name": "Niklas Stack",
+        "motto": "Birden fazla yaptığın her işi otomatikleştir."
+      },
+      {
+        "role": "Android Uygulama Yöneticisi",
+        "bio": "Nico, Android uygulamalarını Kotlin ve Java ile geliştirir, gerçek telefonlarda test eder. İki sürüm arasında Secret of Mana’da dünyayı kurtarmaya döner. Retro oyunlar ona iyi bir fikrin bütün konsol nesillerine dayanabileceğini öğretmiştir. Yan görevi ise zeytindir. Tükettiği miktarı açıklayabilen bir istatistik henüz yok.",
+        "alt": "Nico Droid, eğlenceli ve dolgulu yeşil Android esintili kıyafetiyle Android uygulama yöneticisi",
+        "name": "Nico Droid",
+        "motto": "Kaydet. Test et. Bir zeytin daha al."
+      },
+      {
+        "role": "Apple Uygulama Yöneticisi",
+        "bio": "Nicholas ilk iOS uygulamalarımızı hazırlıyor. Arayüzleri özenle düzenliyor, ayrıntıları hizalıyor ve çok pahalı bir eşyanın sahibini biraz daha üstün yaptığına inanmayı sürdürüyor. Nico Droid ile konuşmaları bu yüzden hayli hareketli geçiyor. Matrix’te olsaydı kırmızı hapı titanyum kaplamalı, ek ücretli kılıfıyla isterdi. Biz bütçesini denetliyoruz; o son rötuşlarımızı.",
+        "alt": "Nicholas Swift, şık gözlükleri ve sofistike Apple esintili kıyafetiyle Apple uygulama yöneticisi",
+        "name": "Nicholas Swift",
+        "motto": "Pahalıysa iyidir."
+      },
+      {
+        "role": "Pazarlama ve E-ticaret Yöneticisi",
+        "bio": "Nicole mağazaları, kampanyaları ve genellikle üçer üçer gelen fikirleri yönetir. Bir ürün sayfasını roket fırlatışına dönüştürüp sonra büyük bir ciddiyetle tıklama başı maliyete dönebilir. Dachshundları, sabahlıkları ve yağı sever. Dachshundlar candır. Diğer ikisi için henüz resmî bir açıklama yayımlanmadı. Megafonunu en çok “küçücük bir fikri” olduğunu duyurmak için kullanır.",
+        "alt": "Nicole Pitch, Nicolas Loffredo’nun yüzünü taşıyan; uzun sarı peruk, turuncu gözlük, çiçekli gömlek ve megafonuyla görülen karakter",
+        "name": "Nicole Pitch",
+        "motto": "Dachshundlar candır."
+      },
+      {
+        "role": "Ürün Tasarımı ve Tedarik Yöneticisi",
+        "bio": "Nikola ürünlerle, tedarikçilerle ve kimsenin fark etmediği ayrıntılarla ilgilenir. Gözlük takmayı reddeder: büyütecin bu işi gayet iyi gördüğünü düşünür, kendi büyütecini ararken bile. Bu yüzden bambuyu Terminator gibi inceler, ama yirmi santimetre mesafeden. Ölçüler, birleşimler, işçilik: hiçbir şey denetiminden kaçmaz. Odanın öbür tarafında duranlar hariç.",
+        "alt": "Nikola Calibre, Nicolas Loffredo’nun yüzünü taşıyan; kahverengi peruk, Japon alın bandı, büyüteç ve bambu düzenleyiciyle görülen karakter",
+        "name": "Nikola Calibre",
+        "motto": "Gözlük mü? Zaten büyütecim var."
+      }
+    ],
+    "mottoLabel": "Motto",
+    "honoraryLabel": "Onur üyesi",
+    "honorary": {
+      "name": "Watson",
+      "role": "CEO’nun sağ kolu",
+      "bio": "Bacakları kısa olsa da Watson, CEO’nun sağ koludur. Kod yazmaz, pazarlık yapmaz, asla toplantı önermez. Masanın yakınında durur ve herkese düzenli olarak yürüyüşün indirilemeyeceğini hatırlatır. Otoritesi çok belirgin bir bakışa dayanır; bu bakış genellikle kapıya ya da bisküvi kutusuna yönelir.",
+      "motto": "Daha az toplantı, daha çok yürüyüş.",
+      "alt": "Bir çalışma masasının yanında doğal biçimde oturan, üzerinde giysi veya aksesuar olmayan siyah ve kızıl kahverengi dachshund"
+    }
+  },
+  "cookies": {
+    "label": "Çerez politikası",
+    "title": "Çerezler ve seçimleriniz",
+    "intro": "Çerez seçimlerinizi hatırlarız. Dilin kaydedilmesine ve kullanımın Google Analytics ile ölçülmesine ayrı ayrı izin verebilirsiniz.",
+    "accept": "Tüm isteğe bağlı çerezleri kabul et",
+    "reject": "İsteğe bağlı çerezleri reddet",
+    "manage": "Tercihleri yönet",
+    "save": "Tercihlerimi kaydet",
+    "close": "Kapat",
+    "optional": "Dilimi hatırla",
+    "optionalDescription": "site_language çerezinin açıkça seçtiğiniz dili 12 aya kadar hatırlamasına izin verin.",
+    "essential": "Gerekli seçim kaydı",
+    "essentialDescription": "cookie_consent, dil ve analiz tercihlerinizi ayrı ayrı 180 gün saklar. Benzersiz bir ziyaretçi tanımlayıcısı içermez.",
+    "policyLink": "Çerez politikasını okuyun",
+    "sections": [
+      [
+        "Çerez nedir?",
+        "Çerezler, tarayıcınızın kaydettiği küçük metin verileridir. Bunları seçimlerinizi hatırlamak ve onay verirseniz site kullanımını ölçmek için kullanırız."
+      ],
+      [
+        "Gerekli çerez: cookie_consent",
+        "cookie_consent, dil ve analiz tercihlerinizi ayrı ayrı 180 gün saklar. Benzersiz bir ziyaretçi tanımlayıcısı içermez."
+      ],
+      [
+        "İsteğe bağlı çerez: site_language",
+        "Dil kaydına izin verirseniz site_language, seçtiğiniz dili 365 güne kadar hatırlar."
+      ],
+      [
+        "Google Analytics",
+        "Onayınızla Google Analytics, sayfa görüntülemeleri gibi site kullanımını ölçer. Google teknik bağlantı ve tarayıcı verilerini alır. _ga ve _ga_LHR5R3H8ZP çerezleri tarayıcıları ayırt eder ve oturum durumunu 180 güne kadar saklar. Nihon Essentials Hub sayfa görüntülemelerini URL sorgu parametreleri ve parçaları olmadan yapılandırır, yönlendiren URL’yi kökeniyle sınırlar ve site etiketinde reklam özelliklerini kapatır."
+      ],
+      [
+        "Reddederseniz veya çerezler engellenirse",
+        "Çerezleri reddetseniz veya engelleseniz de site çalışır. Sayfa adresi ve sekme oturumu dil seçiminizi koruyabilir. Çerezler engellendiğinde sekme çerez kararınızı da hatırlayabilir. Otomatik dil seçimi tarayıcı ayarlarınızı kullanır."
+      ],
+      [
+        "Barındırma ve harici web siteleri",
+        "Barındırma sağlayıcımız, sayfaları sunmak ve güvenliğini sağlamak için IP adresleri dâhil teknik bağlantı bilgilerini alır. Bağlantılarını izlediğinizde Amazon ve Pix-Kit kendi politikalarını uygular."
+      ],
+      [
+        "Seçimlerinizi değiştirme veya silme",
+        "Her seçimi istediğiniz zaman değiştirmek için sayfanın altındaki Tercihleri yönet seçeneğini kullanın. Bir kategoriyi kapatmak o kategoriye ait site çerezlerini siler. Çerezleri tarayıcınızdan da silebilir veya engelleyebilirsiniz."
+      ],
+      [
+        "Web sitesi işletmecisi ve iletişim",
+        "Bu web sitesi, Japonya’nın Fukuoka kentindeki Nihon Essentials Hub G.K. tarafından işletilmektedir. Gizlilik soruları için İletişim sayfamızdaki e-posta bağlantısını kullanın. Bu politika, uygulanan işleyişi açıklar; evrensel bir yasal uyumluluk belgesi değildir."
+      ]
+    ],
+    "analytics": "Google Analytics",
+    "analyticsDescription": "Google Analytics’in bu sitenin kullanımını ölçmesine izin verin.",
+    "analyticsPrivacyLink": "Google Gizlilik Politikası"
+  },
+  "corporateNumberLabel": "Şirket numarası (Japonya)",
+  "corporateNumberLink": "gBizINFO’da doğrulayın (METI)",
+  "bamTrademark": "Japonya’da tescilli markalar: 6953015 (kelime markası), 6953016 (kare logo), 6953017 (desen).",
+  "pixTrademark": "pix-kit, Nihon Essentials Hub G.K.’nin markasıdır. Japonya’da tescilli logo: 7094172 (9. ve 41. sınıflar). Japonya’daki kelime markası başvurusu: 2025-145412."
+}
